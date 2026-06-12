@@ -24,15 +24,15 @@ Challenge: <https://cssbattle.dev/play/M2KEnIkEKWN35WaC6pzf>
 ```html
 <img><img><style>
   &{
-    margin:0 50;
+    margin:22 207 22 97;
     background: #317080;
   * {
-    margin:30 165 30 55;
     background:#F5BB60;
     *{
-      margin:0 0 40 90;
+      margin:0 90;
       padding:50;
       border-radius:2in 0;
     +*{
       scale:-1 1;
+      margin:40 90 0;
 ```
