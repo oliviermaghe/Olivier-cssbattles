@@ -24,9 +24,9 @@ Challenge: <https://cssbattle.dev/play/QOStkHKvkB7UHWpkZD72>
 ```html
 <style>
   & {
-    background:white;
+    background:#FFF;
     *{
-      background:radial-gradient(1q,#0000 50px,#000 0);
+    background:radial-gradient(1q,#0000 53q,#000 0);
       border-radius:29%;
       corner-shape:bevel;
       margin:50 100;
