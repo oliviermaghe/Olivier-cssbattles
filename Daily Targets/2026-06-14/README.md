@@ -22,13 +22,5 @@ Challenge: <https://cssbattle.dev/play/QOStkHKvkB7UHWpkZD72>
 ## Code
 
 ```html
-<style>
-  & {
-    background:#FFF;
-    *{
-    background:radial-gradient(1q,#0000 53q,#000 0);
-      border-radius:29%;
-      corner-shape:bevel;
-      margin:50 100;
-    }
+<style>&{background:#fff;*{background:radial-gradient(#fff 53Q,#000 0);border-radius:29%;corner-shape:bevel;margin:50 100
 ```
