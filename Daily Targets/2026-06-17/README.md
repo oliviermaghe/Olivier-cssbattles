@@ -24,7 +24,7 @@ Challenge: <https://cssbattle.dev/play/gWRvIYqOilEJ5qzQONIM>
 ```html
 <style>
   * {
-    border:70px solid#E8AD6D;
+    border:75q solid#E8AD6D;
     margin:-50 0;
     background: conic-gradient(at 115px 115px,var(--c,#A84A4B) 75%,#E8AD6D 0)var(--p,0 0)/145px 145px;
     *{
