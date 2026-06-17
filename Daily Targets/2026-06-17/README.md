@@ -32,6 +32,6 @@ Challenge: <https://cssbattle.dev/play/gWRvIYqOilEJ5qzQONIM>
       --p:105px 105px;
       margin:20;
       border-radius:2in;
-      border:20px solid#A84A4B;
+      border:5vw solid#A84A4B;
     }
 ```
