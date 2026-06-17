@@ -29,7 +29,7 @@ Challenge: <https://cssbattle.dev/play/gWRvIYqOilEJ5qzQONIM>
     background: conic-gradient(at 115px 115px,var(--c,#A84A4B) 75%,#E8AD6D 0)var(--p,0 0)/145px 145px;
     *{
       --c:#FFF;
-      --p:105px 105px;
+      --p:35vh 35vh;
       margin:20;
       border-radius:2in;
       border:5vw solid#A84A4B;
