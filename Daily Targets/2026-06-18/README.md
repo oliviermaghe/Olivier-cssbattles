@@ -25,8 +25,8 @@ Challenge: <https://cssbattle.dev/play/gOhzH7m34YAoKBbBHKDQ>
 <style>
   & {
     margin:60 110;
-    border:50px solid #FFF;
-    border-radius:30px;
+    border:53q solid #FFF;
+    border-radius:32q;
     background: #81BE48;
     *{
       background:#81BE48;
