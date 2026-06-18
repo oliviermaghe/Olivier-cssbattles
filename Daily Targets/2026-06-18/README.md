@@ -22,5 +22,5 @@ Challenge: <https://cssbattle.dev/play/gOhzH7m34YAoKBbBHKDQ>
 ## Code
 
 ```html
-<style>&{border:53q solid#FFF;border-radius:32q}*{margin:60 110;background:#81BE48;*{rotate:45deg;margin:15-90
+<style>*{background:#81be48}&{border:53Q solid#fff;border-radius:32Q;margin:60 110;*{rotate:45deg;scale:5 .8
 ```
