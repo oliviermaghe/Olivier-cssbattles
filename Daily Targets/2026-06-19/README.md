@@ -32,7 +32,7 @@ Challenge: <https://cssbattle.dev/play/5HntWfntp6RmDVX4hhHs>
     *{
     margin:-60;
     background: #FFF;
-    border-radius:60px;
+    border-radius:63q;
     corner-shape:notch;
     }
 ```
