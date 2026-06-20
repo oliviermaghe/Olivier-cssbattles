@@ -23,19 +23,12 @@ Challenge: <https://cssbattle.dev/play/g7g7LD4T5HXt9Pru8Yvq>
 
 ```html
 <style>
-  *{
-    margin:60 110;
-    background: #F3AC3C;
-    color:#000;
-    font:0%a;
-    
+  &{
+    background:#F3AC3C;
+    margin:111 161;
+    color:F3AC3C;
     box-shadow:
-        inset 9in 0,
-        3em -3em 0 2.6ex,
-        -11ex 11ex;
-    *{
-      color: #F3AC3C;
-      margin:51;
-      font:12pt a;
-    }
+      40px -40px 0 11px,
+      -79px 79px,
+      0 0 0 51px#000;
 ```
