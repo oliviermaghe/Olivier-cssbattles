@@ -28,13 +28,14 @@ Challenge: <https://cssbattle.dev/play/g7g7LD4T5HXt9Pru8Yvq>
     background: #F3AC3C;
     color:#000;
     font:0%a;
+    
     box-shadow:
-        inset 0 9in,
-        3em -3em 0 2.5ex,
-        -5em 5em;
+        inset 9in 0,
+        3em -3em 0 2.6ex,
+        -11ex 11ex;
     *{
-      font:12pt a;
       color: #F3AC3C;
-      margin:50;
+      margin:51;
+      font:12pt a;
     }
 ```
