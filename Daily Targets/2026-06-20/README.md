@@ -26,9 +26,8 @@ Challenge: <https://cssbattle.dev/play/g7g7LD4T5HXt9Pru8Yvq>
   &{
     background:#F3AC3C;
     margin:111 161;
-    color:F3AC3C;
     box-shadow:
-      5ch -5ch 0 12q,
-      -84q 84q,
-      0 0 0 51px#000;
+      5ch -5ch 0 12q#F3AC3C,
+      -84q 84q#F3AC3C,
+      0 0 0 51px;
 ```

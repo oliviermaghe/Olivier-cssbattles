@@ -19,7 +19,7 @@
 <li><a href="./Daily%20Targets/2026-06-17/">Jun 17, 2026</a></li>
 <li><a href="./Daily%20Targets/2026-06-18/">Jun 18, 2026</a></li>
 <li><a href="./Daily%20Targets/2026-06-19/">Jun 19, 2026</a></li>
-<li><a href="./Daily%20Targets/2026-06-20/">Jun 20, 2026</a> (150 Characters)</li>
+<li><a href="./Daily%20Targets/2026-06-20/">Jun 20, 2026</a> (142 Characters)</li>
 </ul>
 </details>
 </li>
