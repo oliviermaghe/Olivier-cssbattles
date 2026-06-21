@@ -22,5 +22,5 @@ Challenge: <https://cssbattle.dev/play/YJ5FEvmSn4jjeldoB66K>
 ## Code
 
 ```html
-<dt><dl><p><style>&{border:32Q solid#ec1d25;margin:60 110;*{box-shadow:0 0 0 30px#004b8e,75px 0 0 5vh#fff;width:0;height:0;offset:ray(0deg
+<dt><p><style>*{box-shadow:inset 0 1in#004B8E,30px 30px#FFF,56q 56q 0 8q#EC1D25;height:60;width:60;offset:ray(0deg
 ```
