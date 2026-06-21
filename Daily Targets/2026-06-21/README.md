@@ -24,12 +24,12 @@ Challenge: <https://cssbattle.dev/play/YJ5FEvmSn4jjeldoB66K>
 ```html
 <dt><dl><p><style>
   & {
-    background:#FFF;
-    border:30px solid #EC1D25;
+    border:32q solid #EC1D25;
     margin:60 110;
     *{
-      background:#004B8E;
-      box-shadow:-75px 0 0 -15px#FFF;
+      box-shadow:
+        inset 0 1in #004B8E,
+        75px 0 0 -5vh#FFF;
       height: 60;
       width: 60;
       offset: ray(0deg);
