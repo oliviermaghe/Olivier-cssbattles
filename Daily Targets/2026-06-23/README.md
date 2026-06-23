@@ -22,27 +22,5 @@ Challenge: <https://cssbattle.dev/play/TRLoToMQ6reTNuP9PYZX>
 ## Code
 
 ```html
-<img><img><style>
-&{
-  background:#B3F0B6;
-  margin:42 92;
-  img{
-    padding:100 50;
-    background:#1B5F1E;
-    clip-path:polygon(
-      0 0, 
-      100% 0,
-      13% 75%,
-      70% 75%,
-      70% 100%,
-      0 100%
-    
-    );
-    +*{scale:-1}
-    
-  }
-}
-
-  
-</style>
+<img><img><style>&{background:#B3F0B6;margin:42 92;img{padding:100 50;background:#151E;clip-path:polygon(0 0,100%0,13%75%,70%75%,70%100%,0 100%);+*{scale:-1
 ```
