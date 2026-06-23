@@ -27,15 +27,14 @@ Challenge: <https://cssbattle.dev/play/TRLoToMQ6reTNuP9PYZX>
   background:#B3F0B6;
   margin:42 92;
   img{
-    outline:1px solid black;
     padding:100 50;
     background:#1B5F1E;
     clip-path:polygon(
       0 0, 
       100% 0,
-      13px 150px,
-      70px 150px,
-      70px 100%,
+      13% 75%,
+      70% 75%,
+      70% 100%,
       0 100%
     
     );
