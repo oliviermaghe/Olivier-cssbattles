@@ -22,21 +22,28 @@ Challenge: <https://cssbattle.dev/play/TRLoToMQ6reTNuP9PYZX>
 ## Code
 
 ```html
-<p><style>
-  & {
-    margin:50 100;
-    background: #1B5F1E;
-    outline:9in solid#B3F0B6;
-    *{
-      background:#B3F0B6;
-      transform:skew(-30deg);
-      margin:0 42;
-      p{
-      transform:skew(30deg);
-        margin:0 1 0 45;
-       background:#1B5F1E;
-        height:50;
-        box-shadow:-130px 150px#1B5F1E;
-      }
-    }
+<img><img><style>
+&{
+  background:#B3F0B6;
+  margin:42 92;
+  img{
+    outline:1px solid black;
+    padding:100 50;
+    background:#1B5F1E;
+    clip-path:polygon(
+      0 0, 
+      100% 0,
+      13px 150px,
+      70px 150px,
+      70px 100%,
+      0 100%
+    
+    );
+    +*{scale:-1}
+    
+  }
+}
+
+  
+</style>
 ```
