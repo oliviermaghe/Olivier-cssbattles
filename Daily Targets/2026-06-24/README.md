@@ -30,11 +30,10 @@ Challenge: <https://cssbattle.dev/play/Dk54uDFqfQ9QnaYGzSTO>
         inset 0 0 0 32q #FAE29E,
         0 5ch,
         0 -5ch,
-        -32q 0,
-        32q 0,
-        0 -5ch 0 32q #FAE29E,
-        0 5ch 0 32q #FAE29E; 
-      ;
+        -30px 0,
+        30px 0,
+        0 -5ch 0 30px #FAE29E,
+        0 5ch 0 30px #FAE29E; 
     margin:40 50;
     *{
       margin:70 80;
