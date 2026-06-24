@@ -3,12 +3,12 @@
 <!-- CSSHUB:README-START -->
 ## CssHub challenge index
 
-### Daily Targets (12)
+### Daily Targets (13)
 
 <ul>
 <li>
 <details>
-<summary><strong>June 2026 (12)</strong></summary>
+<summary><strong>June 2026 (13/24+)</strong></summary>
 
 <ul>
 <li><a href="./Daily%20Targets/2026-06-12/">Jun 12, 2026</a></li>
@@ -23,6 +23,7 @@
 <li><a href="./Daily%20Targets/2026-06-21/">Jun 21, 2026</a></li>
 <li><a href="./Daily%20Targets/2026-06-22/">Jun 22, 2026</a></li>
 <li><a href="./Daily%20Targets/2026-06-23/">Jun 23, 2026</a> (148 Characters)</li>
+<li><a href="./Daily%20Targets/2026-06-24/">Jun 24, 2026</a> (291 Characters)</li>
 </ul>
 </details>
 </li>
