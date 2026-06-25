@@ -22,23 +22,5 @@ Challenge: <https://cssbattle.dev/play/vsqDKNu2ZyCHhsIFFDnD>
 ## Code
 
 ```html
-<img><img><img><style>
-  &{
-    background:#FFF;
-    margin:42 92;
-    position:relative;
-  *{
-    position:absolute;inset:0;
-    background:radial-gradient(circle at left, #0000 20px,#328FC1 0 60px,#0000 0)-70px 40px;
-    padding:100;
-img{
-  scale:-1;
-+img{
-  rotate:90deg;
-  +img{
-    rotate:-90deg
-  }
-}  
-  
-}
+<style>*{background:radial-gradient(1Q at left,#0000 5vw,#328fc1 0 60px,#0000 0)-170px 5ch,radial-gradient(1Q at right,#0000 5vw,#328fc1 0 60px,#0000 0)-230px -5ch;*{margin:0;rotate:90deg
 ```
