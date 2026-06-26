@@ -29,7 +29,7 @@ Challenge: <https://cssbattle.dev/play/HXrAieeMjNEmOzbRlBIV>
     box-shadow:
       inset -58q -58q 0 #D8F581,
       inset 0 2in,
-      110px 0;
+      116q 0;
     background: #D8F581;
     *{
       margin:0;
