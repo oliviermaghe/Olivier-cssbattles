@@ -23,17 +23,13 @@ Challenge: <https://cssbattle.dev/play/HXrAieeMjNEmOzbRlBIV>
 
 ```html
 <style>
-  * {
-    color:#222;
-    margin:40 50%150 90;
-    box-shadow:
-      inset -58q -58q 0 #D8F581,
-      inset 0 2in,
-      116q 0;
-    background: #D8F581;
-    *{
-      margin:0;
-      scale:-1;
-      translate:100% 100%;
-    }
+&{  background:#D8F581}
+*{
+  margin:40 200 150 90;
+  color:#222;
+  box-shadow:0 6.88em,6.88em 0;
+*{
+  font:150%a;
+  scale:-1 1;
+  margin:0 -110 55 165;
 ```
