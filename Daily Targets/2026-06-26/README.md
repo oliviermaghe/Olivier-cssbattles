@@ -34,6 +34,6 @@ Challenge: <https://cssbattle.dev/play/HXrAieeMjNEmOzbRlBIV>
     *{
       margin:0;
       scale:-1;
-      translate:100% 110px;
+      translate:100% 100%;
     }
 ```
