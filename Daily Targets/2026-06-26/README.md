@@ -22,14 +22,5 @@ Challenge: <https://cssbattle.dev/play/HXrAieeMjNEmOzbRlBIV>
 ## Code
 
 ```html
-<style>
-&{  background:#D8F581}
-*{
-  margin:40 200 150 90;
-  color:#222;
-  box-shadow:0 6.88em,6.88em 0;
-*{
-  font:150%a;
-  scale:-1 1;
-  margin:0 -110 55 165;
+<style>&{background:#D8F581}*{margin:40 200 150 90;color:#222;box-shadow:0 6.88em,6.88em 0;*{scale:-1 1;margin:0-110 55 165;font:150%a
 ```
