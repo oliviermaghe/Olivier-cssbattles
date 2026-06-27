@@ -22,20 +22,5 @@ Challenge: <https://cssbattle.dev/play/0QaJpeTOUp1XCAVxQSX6>
 ## Code
 
 ```html
-<p><style>
-  *{
-    margin:110 130;
-    background:
-      conic-gradient(#E3E46F)50%/140px 100px no-repeat
-      #5DBCF9;
-  *{
-    rotate:45deg;
-    background:#E3E46F;
-    margin:0 -45;
-    border-radius:1in;
-    *{
-      rotate:90deg;
-      margin:0;
-       height:80;   
-    }
+<p><style>*{margin:110 130;background:#e3e46f;outline:9em solid#5dbcf9;*{rotate:45deg;margin:0-45;border-radius:1in;*{rotate:90deg;margin:0;height:80}font:0"
 ```
