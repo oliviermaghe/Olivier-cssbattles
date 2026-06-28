@@ -22,18 +22,18 @@ Challenge: <https://cssbattle.dev/play/zhqVcCGcq24I4ItesJgY>
 ## Code
 
 ```html
-<img><style>
-  & {
-    background: #284A5B;
-  *{
-    margin:50 100;
+<style>
+  &{
+    box-shadow:0 0 0 10em#284A5B
+  }
+  * {
     border-radius:2in;
+    margin:50 100;
     background:#F1F271;
   *{
-    margin:30 0 0 100;
-    padding:70 50;
+    margin:29 0 29 100;
     background:#BE6B6C;
-    border-radius:1in 38px 38px 1in;
+    border-radius:1in 40px 40px 1in;
     corner-shape:bevel;
       
     }
