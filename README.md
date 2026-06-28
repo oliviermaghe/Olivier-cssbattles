@@ -3,12 +3,26 @@
 <!-- CSSHUB:README-START -->
 ## CssHub challenge index
 
+### Battles (1)
+
+<ul>
+<li>
+<details>
+<summary><strong>Battle #40 (1)</strong></summary>
+
+<ul>
+<li><a href="./Battles/Battle%20%2340/%23262.%20Pinwheel/">#262. Pinwheel</a> (233 Characters)</li>
+</ul>
+</details>
+</li>
+</ul>
+
 ### Daily Targets (17)
 
 <ul>
 <li>
 <details>
-<summary><strong>June 2026 (17/28+)</strong></summary>
+<summary><strong>June 2026 (17/29+)</strong></summary>
 
 <ul>
 <li><a href="./Daily%20Targets/2026-06-12/">Jun 12, 2026</a></li>
