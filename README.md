@@ -11,7 +11,7 @@
 <summary><strong>Battle #40 (1)</strong></summary>
 
 <ul>
-<li><a href="./Battles/Battle%20%2340/%23262.%20Pinwheel/">#262. Pinwheel</a> (233 Characters)</li>
+<li><a href="./Battles/Battle%20%2340/%23262.%20Pinwheel/">#262. Pinwheel</a> (190 Characters)</li>
 </ul>
 </details>
 </li>

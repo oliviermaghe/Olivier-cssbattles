@@ -22,16 +22,5 @@ Challenge: <https://cssbattle.dev/play/262>
 ## Code
 
 ```html
-<style>
-  &{
-    box-shadow:0 0 0 9in#243D83
-  }
-* {
-    margin:40 200 40 100;
-    border-radius:2in 0 0;
-   background:conic-gradient(#243D83 50%,#6592CF 0)0 100%/40px 120px repeat-x #FFF;
-*{
-    margin:0 -100 0 100;
-    scale:-1;
-}
+<style>&{box-shadow:0 0 0 9in#243D83}*{margin:40 200 40 100;border-radius:2in 0 0;background:conic-gradient(#243D83 50%,#6592CF 0)0 100%/40px 120px repeat-x#FFF;*{margin:0-100 0 100;scale:-1
 ```
