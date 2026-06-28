@@ -22,15 +22,19 @@ Challenge: <https://cssbattle.dev/play/zhqVcCGcq24I4ItesJgY>
 ## Code
 
 ```html
-<style>
+<img><style>
   & {
-    background: radial-gradient(
-      1q, #F1F271 100px,#284A5B);
+    background: #284A5B;
   *{
-    background:conic-gradient(from 45deg at left,#BE6B6C 25%,#0000 0);
-    border-radius:30px;
+    margin:50 100;
+    border-radius:2in;
+    background:#F1F271;
+  *{
+    margin:30 0 0 100;
+    padding:70 50;
+    background:#BE6B6C;
+    border-radius:1in 38px 38px 1in;
     corner-shape:bevel;
-    margin:80 100 80 200
       
     }
 ```
