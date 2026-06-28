@@ -27,7 +27,7 @@
 <li><a href="./Daily%20Targets/2026-06-25/">Jun 25, 2026</a> (184 Characters)</li>
 <li><a href="./Daily%20Targets/2026-06-26/">Jun 26, 2026</a> (133 Characters)</li>
 <li><a href="./Daily%20Targets/2026-06-27/">Jun 27, 2026</a> (157 Characters)</li>
-<li><a href="./Daily%20Targets/2026-06-28/">Jun 28, 2026</a> (176 Characters)</li>
+<li><a href="./Daily%20Targets/2026-06-28/">Jun 28, 2026</a> (167 Characters)</li>
 </ul>
 </details>
 </li>
