@@ -23,19 +23,11 @@ Challenge: <https://cssbattle.dev/play/3bZZVPZQWMXqq8yg75W5>
 
 ```html
 <style>
-  & {
-    background:
-      radial-gradient(
-        1q,
-        #62306D 70px,
-        #F7BED9
-      )-200px/400px;
-      
-    *{
-background:linear-gradient(
-  #62306D 0 10px,
-  #0000 0 20px
-)0 5px/100% 20px;
-      margin:100 0;
-    }
+& {
+  background:
+    repeating-linear-gradient(#62306d, 10px, transparent 0 20px) 0 50% / 100% 90px
+      repeat-x,
+    radial-gradient(1Q, #62306d 70px, #f7bed9) 200px;
+}
+</style>
 ```
