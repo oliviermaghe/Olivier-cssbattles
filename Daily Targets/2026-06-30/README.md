@@ -25,9 +25,9 @@ Challenge: <https://cssbattle.dev/play/3bZZVPZQWMXqq8yg75W5>
 <style>
 & {
   background:
-    repeating-linear-gradient(#62306d, 10px, transparent 0 20px) 0 50% / 100% 90px
+    repeating-linear-gradient(#62306d, 10px, transparent 0 5vw) 0 50% / 100% 90px
       repeat-x,
-    radial-gradient(1Q, #62306d 70px, #f7bed9) 200px;
+    radial-gradient(1Q, #62306d 70px, #f7bed9) 50vw;
 }
 </style>
 ```
