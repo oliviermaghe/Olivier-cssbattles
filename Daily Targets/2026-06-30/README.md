@@ -27,7 +27,7 @@ Challenge: <https://cssbattle.dev/play/3bZZVPZQWMXqq8yg75W5>
   background:
     repeating-linear-gradient(#62306d, 10px, transparent 0 5vw)50% / 1% 5lh
       repeat-x,
-    radial-gradient(1Q, #62306d 70px, #f7bed9) 50vw;
+    radial-gradient(1Q, #62306d 74q, #f7bed9) 50vw;
 }
 </style>
 ```
