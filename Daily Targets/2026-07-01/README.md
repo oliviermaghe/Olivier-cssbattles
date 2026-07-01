@@ -22,58 +22,56 @@ Challenge: <https://cssbattle.dev/play/yvpHijyS5DDPWOUnCQm8>
 ## Code
 
 ```html
-<img><img><style>
-  
-img {
-  margin: 82 62;
-  padding:60;
-  border-radius: 0 0 50% 0;
-  background:radial-gradient(
-    1q, var(--a,#D9BB61) 57px,
-    #0000
-  ) -2px 57px no-repeat,
-radial-gradient(
-    1q, var(--a,#D9BB61) 57px,
-    #0000
-  ) 57px -2px no-repeat    
-    
-    ;
-  
-  +img{
-    --a:#394257;
-    scale:-1 1;
-    margin:0 0 82 -42;
-  }
-}
+<img o><img o r><img t><img t r><style>
+  &{
+    margin:82 52;
 
-</style>
+    
+  img{
+    border-radius:1in 0;
+    background:#D9BB61;
+    padding:60 30;
+  }
+    [o]{
+      margin: 0 -50 0 70;
+    }
+    [r]{
+      scale:-1 1;
+      background:#394257;
+    }
+    [a]{
+      scale:-1;
+    }
+    [t]{
+      margin: -60 10 0 10;
+      padding:30 60
+    }
 ```
 
 ## Prettified code
 
 ```html
-<img><img><style>
-  
-img {
-  margin: 82 62;
-  padding:60;
-  border-radius: 0 0 50% 0;
-  background:radial-gradient(
-    1q, var(--a,#D9BB61) 57px,
-    #0000
-  ) -2px 57px no-repeat,
-radial-gradient(
-    1q, var(--a,#D9BB61) 57px,
-    #0000
-  ) 57px -2px no-repeat    
+<img o><img o r><img t><img t r><style>
+  &{
+    margin:82 52;
     
-    ;
-  
-  +img{
-    --a:#394257;
-    scale:-1 1;
-    margin:0 0 82 -42;
+  img{
+    border-radius:1in 0;
+    background:#D9BB61;
+    padding:60 30;
   }
-}
-</style>
+    [o]{
+      margin: 0 -50 0 70;
+    }
+    [r]{
+      scale:-1 1;
+      background:#394257;
+    }
+    [a]{
+      scale:-1;
+    }
+    [t]{
+      margin: -60 10 0 10;
+      padding:30 60
+    }
 ```
