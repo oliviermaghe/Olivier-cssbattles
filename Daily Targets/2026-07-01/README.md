@@ -22,56 +22,35 @@ Challenge: <https://cssbattle.dev/play/yvpHijyS5DDPWOUnCQm8>
 ## Code
 
 ```html
-<img o><img o r><img t><img t r><style>
-  &{
-    margin:82 52;
-
-    
-  img{
-    border-radius:1in 0;
-    background:#D9BB61;
-    padding:60 30;
-  }
-    [o]{
-      margin: 0 -50 0 70;
-    }
-    [r]{
-      scale:-1 1;
-      background:#394257;
-    }
-    [a]{
-      scale:-1;
-    }
-    [t]{
-      margin: -60 10 0 10;
-      padding:30 60
-    }
+<img o><img o r><img t><img t r><style>img{border-radius:1in 0;background:#D9BB61;padding:60 30}[r]{scale:-1 1;background:#394257}[o]{margin:82-102 0 122;+*{margin:0 122}}[t]{margin:0 0 0-322;padding:30 60;+*{margin:-60 0 0 202
 ```
 
 ## Prettified code
 
 ```html
-<img o><img o r><img t><img t r><style>
-  &{
-    margin:82 52;
-    
-  img{
-    border-radius:1in 0;
-    background:#D9BB61;
-    padding:60 30;
+<img o><img o r><img t><img t r>
+<style>
+img {
+  border-radius: 1in 0;
+  background: #d9bb61;
+  padding: 60 30;
+}
+[r] {
+  scale: -1 1;
+  background: #394257;
+}
+[o] {
+  margin: 82 -102 0 122;
+  + * {
+    margin: 0 122;
   }
-    [o]{
-      margin: 0 -50 0 70;
-    }
-    [r]{
-      scale:-1 1;
-      background:#394257;
-    }
-    [a]{
-      scale:-1;
-    }
-    [t]{
-      margin: -60 10 0 10;
-      padding:30 60
-    }
+}
+[t] {
+  margin: 0 0 0 -322;
+  padding: 30 60;
+  + * {
+    margin: -60 0 0 202;
+  }
+}
+</style>
 ```
