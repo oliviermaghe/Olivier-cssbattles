@@ -17,7 +17,7 @@
 </li>
 </ul>
 
-### Daily Targets (19)
+### Daily Targets (20)
 
 <ul>
 <li>
@@ -44,6 +44,15 @@
 <li><a href="./Daily%20Targets/2026-06-28/">Jun 28, 2026</a> (150 Characters)</li>
 <li><a href="./Daily%20Targets/2026-06-29/">Jun 29, 2026</a> (138 Characters)</li>
 <li><a href="./Daily%20Targets/2026-06-30/">Jun 30, 2026</a> (133 Characters)</li>
+</ul>
+</details>
+</li>
+<li>
+<details>
+<summary><strong>July 2026 (1/1+)</strong></summary>
+
+<ul>
+<li><a href="./Daily%20Targets/2026-07-01/">Jul 1, 2026</a> (361 Characters)</li>
 </ul>
 </details>
 </li>
