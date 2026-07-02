@@ -26,16 +26,16 @@ Challenge: <https://cssbattle.dev/play/nXGWhRanLkXsKymyC5xU>
   &,p {
     background:#FADE8B;
     margin:138 105 138 45;
-    box-shadow:inset 0 1in,0 -34px,0 34px;
+    box-shadow:inset 0 1in,0 -36q,0 36q;
       p{
         height:24;
         margin:28 -100 0 115;
     }
     >*{
       margin:-78 10 -78 70;
-      border:30px solid;
+      border:32q solid;
       box-shadow:inset 0 0 0 10px#FADE8B;
-      outline:10px solid #FADE8B;
+      outline:11q solid #FADE8B;
   }
 ```
 
@@ -46,15 +46,15 @@ Challenge: <https://cssbattle.dev/play/nXGWhRanLkXsKymyC5xU>
   &,p {
     background:#FADE8B;
     margin:138 105 138 45;
-    box-shadow:inset 0 1in,0 -34px,0 34px;
+    box-shadow:inset 0 1in,0 -36q,0 36q;
       p{
         height:24;
         margin:28 -100 0 115;
     }
     >*{
       margin:-78 10 -78 70;
-      border:30px solid;
+      border:32q solid;
       box-shadow:inset 0 0 0 10px#FADE8B;
-      outline:10px solid #FADE8B;
+      outline:11q solid #FADE8B;
   }
 ```
