@@ -22,39 +22,33 @@ Challenge: <https://cssbattle.dev/play/nXGWhRanLkXsKymyC5xU>
 ## Code
 
 ```html
-<p><style>
-  &,p {
-    background:#FADE8B;
-    margin:138 105 138 45;
-    box-shadow:inset 0 1in,0 -36q,0 36q;
-      p{
-        height:24;
-        margin:28 -100 0 115;
-    }
-    >*{
-      margin:-78 10 -78 70;
-      border:32q solid;
-      box-shadow:inset 0 0 0 10px#FADE8B;
-      outline:11q solid #FADE8B;
-  }
+<p><style>&,p{background:#fade8b;margin:138 105 138 45;box-shadow:inset 0 1in,0-36Q,0 36Q;p{height:24;margin:28-100 0 150}>*{margin:-78 10-78 70;border:32Q solid;box-shadow:inset 0 0 0 10px#fade8b,0 0 0 10px#fade8b
 ```
 
 ## Prettified code
 
 ```html
-<p><style>
-  &,p {
-    background:#FADE8B;
-    margin:138 105 138 45;
-    box-shadow:inset 0 1in,0 -36q,0 36q;
-      p{
-        height:24;
-        margin:28 -100 0 115;
-    }
-    >*{
-      margin:-78 10 -78 70;
-      border:32q solid;
-      box-shadow:inset 0 0 0 10px#FADE8B;
-      outline:11q solid #FADE8B;
+<p>
+<style>
+&,
+p {
+  background: #fade8b;
+  margin: 138 105 138 45;
+  box-shadow:
+    inset 0 1in,
+    0 -36Q,
+    0 36Q;
+  p {
+    height: 24;
+    margin: 28 -100 0 150;
   }
+  > * {
+    margin: -78 10 -78 70;
+    border: 32Q solid;
+    box-shadow:
+      inset 0 0 0 10px #fade8b,
+      0 0 0 10px #fade8b;
+  }
+}
+</style>
 ```
