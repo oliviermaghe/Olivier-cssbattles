@@ -22,53 +22,28 @@ Challenge: <https://cssbattle.dev/play/bzQ591FAfiRjAtqMae1E>
 ## Code
 
 ```html
-<style>
-  & {
-    margin:30;
-    background: radial-gradient(
-      1q,
-      #222 100px,
-      #9BE9FD
-    )50%/100%9in;
-    *{
-      background:#9BE9FD;
-      margin:100 130 110;
-      color:#222;
-      box-shadow:
-        inset 30px 0,
-        inset -30px 0,
-        0px 55px 0 -5px,
-        0px -10px 0 20px #9BE9FD,
-        0px 50px 0 20px #9BE9FD,
-        0 80px 0 10px,
-        0px 60px 0 20px #9BE9FD
- 
-    }
+<style>&{background:radial-gradient(1q,#222 25vw,#9BE9FD);*{margin:130 40%140;background:#9BE9FD;border-inline:32q solid#222;color:9BE9FD;box-shadow:0 58q 0-5q#222,0-10px 0 5vw,0 50px 0 5vw,0 5pc 0 11q#222,0 60px 0 5vw
 ```
 
 ## Prettified code
 
 ```html
 <style>
-  & {
-    margin:30;
-    background: radial-gradient(
-      1q,
-      #222 100px,
-      #9BE9FD
-    )50%/100%9in;
-    *{
-      background:#9BE9FD;
-      margin:100 130 110;
-      color:#222;
-      box-shadow:
-        inset 30px 0,
-        inset -30px 0,
-        0px 55px 0 -5px,
-        0px -10px 0 20px #9BE9FD,
-        0px 50px 0 20px #9BE9FD,
-        0 80px 0 10px,
-        0px 60px 0 20px #9BE9FD
- 
-    }
+& {
+  background: radial-gradient(1Q, #222 25vw, #9be9fd);
+  * {
+    margin: 130 40% 140;
+    background: #9be9fd;
+    border-inline: 32Q solid #222;
+    color: 9BE9FD;
+    box-shadow:
+      0 58Q 0 -5Q #222,
+      0 -10px 0 5vw,
+      0 50px 0 5vw,
+      0 5pc 0 11Q #222,
+      0 60px 0 5vw;
+  }
+}
+
+</style>
 ```
