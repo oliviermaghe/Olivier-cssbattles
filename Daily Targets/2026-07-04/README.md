@@ -23,38 +23,36 @@ Challenge: <https://cssbattle.dev/play/Tgh9p4ln2hnogFFpiFch>
 
 ```html
 <style>
+* {
+  margin: 40 130 100;
+  background: #d35c72;
+  color: EFEB99;
+  box-shadow: var(--s, inset 0 9in);
   * {
-    margin:40 130 100;
-    background: #D35C72;
-    color:#EFEB99;
-    box-shadow:var(--s,inset 0 9in);
-    *{
-      --s:-30px 0,
-        0 30px,
-        50px 0,
-        80px 30px,
-        -15px -135px 0-5px #D35C72,
-        35px -135px 0-5px #D35C72;
-      margin:160 80 -30 30;
-    }
+    --s:
+      -32q 0, 0 32q, 53q 0, 5pc 32q, -5vh -45vh 0 -5px #d35c72,
+      37q -45vh 0 -5q #d35c72;
+    margin: 160 80 -30 30;
+  }
+}
+</style>
 ```
 
 ## Prettified code
 
 ```html
 <style>
+* {
+  margin: 40 130 100;
+  background: #d35c72;
+  color: EFEB99;
+  box-shadow: var(--s, inset 0 9in);
   * {
-    margin:40 130 100;
-    background: #D35C72;
-    color:#EFEB99;
-    box-shadow:var(--s,inset 0 9in);
-    *{
-      --s:-30px 0,
-        0 30px,
-        50px 0,
-        80px 30px,
-        -15px -135px 0-5px #D35C72,
-        35px -135px 0-5px #D35C72;
-      margin:160 80 -30 30;
-    }
+    --s:
+      -32q 0, 0 32q, 53q 0, 5pc 32q, -5vh -45vh 0 -5px #d35c72,
+      37q -45vh 0 -5q #d35c72;
+    margin: 160 80 -30 30;
+  }
+}
+</style>
 ```
