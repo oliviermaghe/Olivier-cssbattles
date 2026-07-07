@@ -3,15 +3,16 @@
 <!-- CSSHUB:README-START -->
 ## CssHub challenge index
 
-### Battles (1)
+### Battles (2)
 
 <ul>
 <li>
 <details>
-<summary><strong>Battle #40 (1)</strong></summary>
+<summary><strong>Battle #40 (2)</strong></summary>
 
 <ul>
 <li><a href="./Battles/Battle%20%2340/%23262.%20Pinwheel/">#262. Pinwheel</a> (190 Characters)</li>
+<li><a href="./Battles/Battle%20%2340/%23263.%20Celtic%20Knot/">#263. Celtic Knot</a> (549 Characters)</li>
 </ul>
 </details>
 </li>
@@ -49,7 +50,7 @@
 </li>
 <li>
 <details>
-<summary><strong>July 2026 (5/5+)</strong></summary>
+<summary><strong>July 2026 (5/7+)</strong></summary>
 
 <ul>
 <li><a href="./Daily%20Targets/2026-07-01/">Jul 1, 2026</a> (227 Characters)</li>
