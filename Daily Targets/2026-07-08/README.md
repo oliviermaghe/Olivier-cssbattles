@@ -22,27 +22,22 @@ Challenge: <https://cssbattle.dev/play/3XH4lVrpfDgTcrxgYXt5>
 ## Code
 
 ```html
-<style>
-  * {
-    /* this is a test */
-    outline:10px solid #4C4C6B;
-    margin:100 100 -30;
-    background: #FAE29E;
-    *{
-      background: #4A9A86;
-      margin:0 -35 190;
+<style>*{outline:11q solid#4C4C6B;margin:25%100-30;background:#FAE29E;*{background:#4A9A86;margin:0-35 190
 ```
 
 ## Prettified code
 
 ```html
 <style>
+* {
+  outline: 11Q solid #4c4c6b;
+  margin: 25% 100 -30;
+  background: #fae29e;
   * {
-    /* this is a test */
-    outline:10px solid #4C4C6B;
-    margin:100 100 -30;
-    background: #FAE29E;
-    *{
-      background: #4A9A86;
-      margin:0 -35 190;
+    background: #4a9a86;
+    margin: 0 -35 190;
+  }
+}
+
+</style>
 ```
