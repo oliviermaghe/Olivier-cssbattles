@@ -22,47 +22,47 @@ Challenge: <https://cssbattle.dev/play/Ittib3FggGhUuZ2rdNS9>
 ## Code
 
 ```html
-<style>
-  * {
-    background:
-      linear-gradient(
-        #84BE8D
-      )100% 100%/90px 30px no-repeat,
-    conic-gradient(
-      from -90deg
-      at 30px 40px,
-      #84BE8D 75%,
-      #0000 0
-    )10px 0/5pc no-repeat #3157B4;
-    margin:50 220 20 70;
-    box-shadow:0 0 9em #3157B4;
+<img><img><p><style>
+  &{
+    background:#3157B4;
     *{
-      
-      margin:0 -130 0 130;
-      font:0""
+      margin:50 55;
+  img {
+    margin:0 25;
+    border:dashed #84BE8D;
+    border-width:40px 50px 0 0;
+    padding:80 15};
+    p{
+      margin:0 35;
+      height:30;
+      background:linear-gradient(
+        90deg,
+        #84BE8D 90px,
+        #3157B4 0
+      )0/138q
     }
 ```
 
 ## Prettified code
 
 ```html
-<style>
-  * {
-    background:
-      linear-gradient(
-        #84BE8D
-      )100% 100%/90px 30px no-repeat,
-    conic-gradient(
-      from -90deg
-      at 30px 40px,
-      #84BE8D 75%,
-      #0000 0
-    )10px 0/5pc no-repeat #3157B4;
-    margin:50 220 20 70;
-    box-shadow:0 0 9em #3157B4;
+<img><img><p><style>
+  &{
+    background:#3157B4;
     *{
-      
-      margin:0 -130 0 130;
-      font:0""
+      margin:50 55;
+  img {
+    margin:0 25;
+    border:dashed #84BE8D;
+    border-width:40px 50px 0 0;
+    padding:80 15};
+    p{
+      margin:0 35;
+      height:30;
+      background:linear-gradient(
+        90deg,
+        #84BE8D 90px,
+        #3157B4 0
+      )0/138q
     }
 ```
