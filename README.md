@@ -50,7 +50,7 @@
 </li>
 <li>
 <details>
-<summary><strong>July 2026 (9/10+)</strong></summary>
+<summary><strong>July 2026 (9/11+)</strong></summary>
 
 <ul>
 <li><a href="./Daily%20Targets/2026-07-01/">Jul 1, 2026</a> (227 Characters)</li>
@@ -61,7 +61,7 @@
 <li><a href="./Daily%20Targets/2026-07-07/">Jul 7, 2026</a> (188 Characters)</li>
 <li><a href="./Daily%20Targets/2026-07-08/">Jul 8, 2026</a> (106 Characters)</li>
 <li><a href="./Daily%20Targets/2026-07-09/">Jul 9, 2026</a> (146 Characters)</li>
-<li><a href="./Daily%20Targets/2026-07-10/">Jul 10, 2026</a> (177 Characters)</li>
+<li><a href="./Daily%20Targets/2026-07-10/">Jul 10, 2026</a> (110 Characters)</li>
 </ul>
 </details>
 </li>
