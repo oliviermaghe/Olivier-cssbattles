@@ -24,19 +24,19 @@ Challenge: <https://cssbattle.dev/play/80Er6Y1RveWdX3PjVkl0>
 ```html
 <style>
   & {
-    margin:35 184 65 136;
+    margin:35 46% 65 136;
     color:C06C88;
     box-shadow:
       inset -53q 5ch, 
       5vh 26q 0 5px;
     background: #6A97;
     *{
-      border-top:30px solid#411C56;
+      border-top:32q solid#411C56;
       background:radial-gradient(
         1q,
         #B7D7CD 32q,
         #411C56 0 60px,
-        #B7D7CD 0
+        #B7D7CD
       )-60px -3vw/30vw repeat-y;
       margin:0 -60 0 80;
 ```
@@ -46,19 +46,19 @@ Challenge: <https://cssbattle.dev/play/80Er6Y1RveWdX3PjVkl0>
 ```html
 <style>
   & {
-    margin:35 184 65 136;
+    margin:35 46% 65 136;
     color:C06C88;
     box-shadow:
       inset -53q 5ch, 
       5vh 26q 0 5px;
     background: #6A97;
     *{
-      border-top:30px solid#411C56;
+      border-top:32q solid#411C56;
       background:radial-gradient(
         1q,
         #B7D7CD 32q,
         #411C56 0 60px,
-        #B7D7CD 0
+        #B7D7CD
       )-60px -3vw/30vw repeat-y;
       margin:0 -60 0 80;
 ```
