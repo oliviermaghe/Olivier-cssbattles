@@ -25,12 +25,11 @@ Challenge: <https://cssbattle.dev/play/80Er6Y1RveWdX3PjVkl0>
 <style>
   & {
     margin:35 184 65 136;
-    color: #C06C88;
+    color:C06C88;
     box-shadow:
       inset -50px 40px, 
-      15px 25px 0 5px;
-
-    background: #B7D7CD;
+      5vh 25px 0 5px;
+    background: #6A97;
     *{
       border-top:30px solid #411C56;
       background:radial-gradient(
@@ -38,7 +37,7 @@ Challenge: <https://cssbattle.dev/play/80Er6Y1RveWdX3PjVkl0>
         #B7D7CD 30px,
         #411C56 0 60px,
         #B7D7CD 0
-      )-60px -12px/120px repeat-y;
+      )-60px -3vw/30vw repeat-y;
       margin:0 -60 0 80;
 ```
 
@@ -48,11 +47,11 @@ Challenge: <https://cssbattle.dev/play/80Er6Y1RveWdX3PjVkl0>
 <style>
   & {
     margin:35 184 65 136;
-    color: #C06C88;
+    color:C06C88;
     box-shadow:
       inset -50px 40px, 
-      15px 25px 0 5px;
-    background: #B7D7CD;
+      5vh 25px 0 5px;
+    background: #6A97;
     *{
       border-top:30px solid #411C56;
       background:radial-gradient(
@@ -60,6 +59,6 @@ Challenge: <https://cssbattle.dev/play/80Er6Y1RveWdX3PjVkl0>
         #B7D7CD 30px,
         #411C56 0 60px,
         #B7D7CD 0
-      )-60px -12px/120px repeat-y;
+      )-60px -3vw/30vw repeat-y;
       margin:0 -60 0 80;
 ```
