@@ -24,11 +24,12 @@ Challenge: <https://cssbattle.dev/play/80Er6Y1RveWdX3PjVkl0>
 ```html
 <style>
   & {
-    margin:35 186 65 135;
+    margin:35 184 65 136;
     color: #C06C88;
     box-shadow:
       inset -50px 40px, 
       15px 25px 0 5px;
+
     background: #B7D7CD;
     *{
       border-top:30px solid #411C56;
@@ -38,7 +39,7 @@ Challenge: <https://cssbattle.dev/play/80Er6Y1RveWdX3PjVkl0>
         #411C56 0 60px,
         #B7D7CD 0
       )-60px -12px/120px repeat-y;
-      margin:0 -62 0 80;
+      margin:0 -60 0 80;
 ```
 
 ## Prettified code
@@ -46,7 +47,7 @@ Challenge: <https://cssbattle.dev/play/80Er6Y1RveWdX3PjVkl0>
 ```html
 <style>
   & {
-    margin:35 186 65 135;
+    margin:35 184 65 136;
     color: #C06C88;
     box-shadow:
       inset -50px 40px, 
@@ -60,5 +61,5 @@ Challenge: <https://cssbattle.dev/play/80Er6Y1RveWdX3PjVkl0>
         #411C56 0 60px,
         #B7D7CD 0
       )-60px -12px/120px repeat-y;
-      margin:0 -62 0 80;
+      margin:0 -60 0 80;
 ```
