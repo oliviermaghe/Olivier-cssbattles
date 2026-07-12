@@ -31,10 +31,10 @@ Challenge: <https://cssbattle.dev/play/80Er6Y1RveWdX3PjVkl0>
       5vh 26q 0 5px;
     background: #6A97;
     *{
-      border-top:30px solid #411C56;
+      border-top:30px solid#411C56;
       background:radial-gradient(
         1q,
-        #B7D7CD 30px,
+        #B7D7CD 32q,
         #411C56 0 60px,
         #B7D7CD 0
       )-60px -3vw/30vw repeat-y;
@@ -53,10 +53,10 @@ Challenge: <https://cssbattle.dev/play/80Er6Y1RveWdX3PjVkl0>
       5vh 26q 0 5px;
     background: #6A97;
     *{
-      border-top:30px solid #411C56;
+      border-top:30px solid#411C56;
       background:radial-gradient(
         1q,
-        #B7D7CD 30px,
+        #B7D7CD 32q,
         #411C56 0 60px,
         #B7D7CD 0
       )-60px -3vw/30vw repeat-y;
