@@ -23,32 +23,32 @@ Challenge: <https://cssbattle.dev/play/tpgHg0s1msgLUqaMEbAQ>
 
 ```html
 <style>
-  & {
-    border:20px solid#331D1D;
+  * {
+    color:331D1D;
+    border:5vw solid;
     margin:30 -20 -20;
-    background:#A51D;
+    background:#B46C31;
     *{
-      background:#FEF8BB;
-      clip-path:polygon(
-        0 0, 100% 0,100% 100%,50% 75%,0 100%
-      );
-      
+      color:FEF8BB;
+      border-width:60 75;
       margin:-20 125 30;
+      border-bottom-color:#0000;
+    }
 ```
 
 ## Prettified code
 
 ```html
 <style>
-  & {
-    border:20px solid#331D1D;
+  * {
+    color:331D1D;
+    border:5vw solid;
     margin:30 -20 -20;
-    background:#A51D;
+    background:#B46C31;
     *{
-      background:#FEF8BB;
-      clip-path:polygon(
-        0 0, 100% 0,100% 100%,50% 75%,0 100%
-      );
-      
+      color:FEF8BB;
+      border-width:60 75;
       margin:-20 125 30;
+      border-bottom-color:#0000;
+    }
 ```
