@@ -31,8 +31,8 @@ Challenge: <https://cssbattle.dev/play/W9znsYJVH3cpo114b3YG>
     *{
       background:
         conic-gradient(
-        from 206.8deg at 50% 0,
-        #0000 85.2%,
+        from 207deg at 50% 0,
+        #0000 85%,
         #5483A9 0
       )50%/125px
         ,
@@ -55,8 +55,8 @@ Challenge: <https://cssbattle.dev/play/W9znsYJVH3cpo114b3YG>
     *{
       background:
         conic-gradient(
-        from 206.8deg at 50% 0,
-        #0000 85.2%,
+        from 207deg at 50% 0,
+        #0000 85%,
         #5483A9 0
       )50%/125px
         ,
