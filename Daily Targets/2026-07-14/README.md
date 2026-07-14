@@ -30,9 +30,8 @@ Challenge: <https://cssbattle.dev/play/W9znsYJVH3cpo114b3YG>
     background: #5483A9;
     *{
       background:
-        
         conic-gradient(
-        from -27deg at 62px 124px,
+        from -27.3deg at 63px 123px,
         #0000 54deg,
         #5483A9 0
       )0/125px
@@ -42,10 +41,6 @@ Challenge: <https://cssbattle.dev/play/W9znsYJVH3cpo114b3YG>
           #78C3C7 0
         );
       margin:0 0 -124
-        
-        
-        
-        ;
 ```
 
 ## Prettified code
@@ -59,9 +54,8 @@ Challenge: <https://cssbattle.dev/play/W9znsYJVH3cpo114b3YG>
     background: #5483A9;
     *{
       background:
-        
         conic-gradient(
-        from -27deg at 62px 124px,
+        from -27.3deg at 63px 123px,
         #0000 54deg,
         #5483A9 0
       )0/125px
@@ -71,8 +65,4 @@ Challenge: <https://cssbattle.dev/play/W9znsYJVH3cpo114b3YG>
           #78C3C7 0
         );
       margin:0 0 -124
-        
-        
-        
-        ;
 ```
