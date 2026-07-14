@@ -31,10 +31,10 @@ Challenge: <https://cssbattle.dev/play/W9znsYJVH3cpo114b3YG>
     *{
       background:
         conic-gradient(
-        from -27.3deg at 63px 123px,
-        #0000 54deg,
+        from 206.8deg at 50% 0,
+        #0000 85.2%,
         #5483A9 0
-      )0/125px
+      )50%/125px
         ,
         linear-gradient(
           #E0D59D 70px,
@@ -55,10 +55,10 @@ Challenge: <https://cssbattle.dev/play/W9znsYJVH3cpo114b3YG>
     *{
       background:
         conic-gradient(
-        from -27.3deg at 63px 123px,
-        #0000 54deg,
+        from 206.8deg at 50% 0,
+        #0000 85.2%,
         #5483A9 0
-      )0/125px
+      )50%/125px
         ,
         linear-gradient(
           #E0D59D 70px,
