@@ -22,39 +22,57 @@ Challenge: <https://cssbattle.dev/play/W9znsYJVH3cpo114b3YG>
 ## Code
 
 ```html
-<img><img><style>
+<style>
   & {
     border:solid #E0D59D;
-    border-width: 150 75;
-    border-bottom-color:#5483A9;
+    border-width:150 75;
+    border-bottom-color:#0000;
     background: #5483A9;
     *{
-      margin:0 0 -125;
-      img{
-        margin:0 1 0 0;
-        border:solid #E0D59D;
-        border-width:125 62 0;
-        border-inline-color:#0000;        
-      }
-    }
+      background:
+        
+        conic-gradient(
+        from -27deg at 62px 124px,
+        #0000 54deg,
+        #5483A9 0
+      )0/125px
+        ,
+        linear-gradient(
+          #E0D59D 70px,
+          #78C3C7 0
+        );
+      margin:0 0 -124
+        
+        
+        
+        ;
 ```
 
 ## Prettified code
 
 ```html
-<img><img><style>
+<style>
   & {
     border:solid #E0D59D;
-    border-width: 150 75;
-    border-bottom-color:#5483A9;
+    border-width:150 75;
+    border-bottom-color:#0000;
     background: #5483A9;
     *{
-      margin:0 0 -125;
-      img{
-        margin:0 1 0 0;
-        border:solid #E0D59D;
-        border-width:125 62 0;
-        border-inline-color:#0000;        
-      }
-    }
+      background:
+        
+        conic-gradient(
+        from -27deg at 62px 124px,
+        #0000 54deg,
+        #5483A9 0
+      )0/125px
+        ,
+        linear-gradient(
+          #E0D59D 70px,
+          #78C3C7 0
+        );
+      margin:0 0 -124
+        
+        
+        
+        ;
 ```
