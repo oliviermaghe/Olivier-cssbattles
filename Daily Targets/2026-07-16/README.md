@@ -22,41 +22,24 @@ Challenge: <https://cssbattle.dev/play/ZHdqz6FmXWrev0SARB8I>
 ## Code
 
 ```html
-<style>
-  *{
-    --b:radial-gradient(1q,#742020 85px,#0000 0) no-repeat ;
-    background: var(--b)#AF6A8A;
-  margin:0 100 0 -11;
-    *{
-      background:
-        conic-gradient(
-          at 50px 105px,
-          #0000 25%,
-          #AF6A8A 0
-        ) 0 20px/ 100% 155px,
-        var(--b);
-      margin:0 -91 0 131
-   
-    }
+<style>&{--b:radial-gradient(1Q,#742020 90Q,#0000 0)fixed;background:var(--b)-58Q,var(--b)58Q#AF6A8A;*{background:conic-gradient(at 53Q 124Q,#0000 25%,#af6a8a 0)0 0/100%177Q;margin-left:120
 ```
 
 ## Prettified code
 
 ```html
 <style>
-  *{
-    --b:radial-gradient(1q,#742020 85px,#0000 0) no-repeat ;
-    background: var(--b)#AF6A8A;
-  margin:0 100 0 -11;
-    *{
-      background:
-        conic-gradient(
-          at 50px 105px,
-          #0000 25%,
-          #AF6A8A 0
-        ) 0 20px/ 100% 155px,
-        var(--b);
-      margin:0 -91 0 131
-   
-    }
+& {
+  --b: radial-gradient(1Q, #742020 90Q, transparent 0) fixed;
+  background:
+    var(--b) -58Q,
+    var(--b) 58Q #af6a8a;
+  * {
+    background: conic-gradient(at 53Q 124Q, transparent 25%, #af6a8a 0) 0 0 /
+      100% 177Q;
+    margin-left: 120;
+  }
+}
+
+</style>
 ```
