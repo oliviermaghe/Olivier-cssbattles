@@ -24,19 +24,18 @@ Challenge: <https://cssbattle.dev/play/0esrz3btDFAYNYpYzP4I>
 ```html
 <style>
   * {
-    border:solid#E38F66;
-    border-width:20 0 20 40;
-    margin:100 260 100 40;
-    outline:20px solid;
+    margin:20% 60% 20% 20;
     box-shadow:
-      100px 0 0 -20px,
-      0 0 0 90em #E38F66;
-    background:#000;
+      inset 0 0 0 5vw,
+      inset 63q 5ch#E38F66,
+      inset var(--a,0) -5ch#E38F66,
+      inset 0 2in,
+      5pc 0 0 -5ch;
+    background:#E38F66;
     *{
       scale:-1;
-      margin:-20 -220 -20 180;
-      border-width:20 40;
-      font:0%a
+      margin:0 -220 0 220;
+      --a:-63q;
     }
 ```
 
@@ -45,18 +44,17 @@ Challenge: <https://cssbattle.dev/play/0esrz3btDFAYNYpYzP4I>
 ```html
 <style>
   * {
-    border:solid#E38F66;
-    border-width:20 0 20 40;
-    margin:100 260 100 40;
-    outline:20px solid;
+    margin:20% 60% 20% 20;
     box-shadow:
-      100px 0 0 -20px,
-      0 0 0 90em #E38F66;
-    background:#000;
+      inset 0 0 0 5vw,
+      inset 63q 5ch#E38F66,
+      inset var(--a,0) -5ch#E38F66,
+      inset 0 2in,
+      5pc 0 0 -5ch;
+    background:#E38F66;
     *{
       scale:-1;
-      margin:-20 -220 -20 180;
-      border-width:20 40;
-      font:0%a
+      margin:0 -220 0 220;
+      --a:-63q;
     }
 ```
