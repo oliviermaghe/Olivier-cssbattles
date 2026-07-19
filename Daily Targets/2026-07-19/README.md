@@ -22,39 +22,28 @@ Challenge: <https://cssbattle.dev/play/0esrz3btDFAYNYpYzP4I>
 ## Code
 
 ```html
-<style>
-  * {
-    margin:20% 60% 20% 20;
-    box-shadow:
-      inset 0 0 0 5vw,
-      inset 63q 5ch#E38F66,
-      inset var(--a,0) -5ch#E38F66,
-      inset 0 2in,
-      5pc 0 0 -5ch;
-    background:#E38F66;
-    *{
-      scale:-1;
-      margin:0 -220 0 220;
-      --a:-63q;
-    }
+<style>*{margin:20%60%20%20;box-shadow:inset 0 0 0 5vw,inset 63q 5ch#E38F66,inset var(--a,0)-5ch#E38F66,inset 0 2in,5pc 0 0-5ch;background:#E38F66;*{scale:-1;margin:0-220 0 220;--a:-63q
 ```
 
 ## Prettified code
 
 ```html
 <style>
+* {
+  margin: 20% 60% 20% 20;
+  box-shadow:
+    inset 0 0 0 5vw,
+    inset 63Q 5ch #e38f66,
+    inset var(--a, 0) -5ch #e38f66,
+    inset 0 2in,
+    5pc 0 0 -5ch;
+  background: #e38f66;
   * {
-    margin:20% 60% 20% 20;
-    box-shadow:
-      inset 0 0 0 5vw,
-      inset 63q 5ch#E38F66,
-      inset var(--a,0) -5ch#E38F66,
-      inset 0 2in,
-      5pc 0 0 -5ch;
-    background:#E38F66;
-    *{
-      scale:-1;
-      margin:0 -220 0 220;
-      --a:-63q;
-    }
+    scale: -1;
+    margin: 0 -220 0 220;
+    --a: -63Q;
+  }
+}
+
+</style>
 ```
