@@ -22,45 +22,53 @@ Challenge: <https://cssbattle.dev/play/3Id7EGx422al80kPP1eQ>
 ## Code
 
 ```html
-<img><img><style>
+<p><p>
+<style>
+* {
+  border-block: 32q solid #ebf6f0;
+  margin: 60 50;
+  background: #4a9a86;
   * {
-    border-block:30px solid #EBF6F0;
-    margin:60 50;
-    background: #4A9A86;
-    *{
-      margin:20 40;
-      img{
-        border:solid #4A9A86;
-        border-width:0 60 0 20;
-        background:#FAE29E;
-        padding:40;
-        margin:-80 100;
-        +img{
-          margin:20 -40 -80;
-          scale:-1;
-        }
+    margin: 20 40;
+    * {
+      border: solid #4a9a86;
+      border-width: 0 60 0 20;
+      background: #fae29e;
+      padding: 40;
+      margin: -80 100;
+      + * {
+        margin: 100 47% -80 -40;
+        scale: -1;
       }
+    }
+  }
+}
+</style>
 ```
 
 ## Prettified code
 
 ```html
-<img><img><style>
+<p><p>
+<style>
+* {
+  border-block: 32q solid #ebf6f0;
+  margin: 60 50;
+  background: #4a9a86;
   * {
-    border-block:30px solid #EBF6F0;
-    margin:60 50;
-    background: #4A9A86;
-    *{
-      margin:20 40;
-      img{
-        border:solid #4A9A86;
-        border-width:0 60 0 20;
-        background:#FAE29E;
-        padding:40;
-        margin:-80 100;
-        +img{
-          margin:20 -40 -80;
-          scale:-1;
-        }
+    margin: 20 40;
+    * {
+      border: solid #4a9a86;
+      border-width: 0 60 0 20;
+      background: #fae29e;
+      padding: 40;
+      margin: -80 100;
+      + * {
+        margin: 100 47% -80 -40;
+        scale: -1;
       }
+    }
+  }
+}
+</style>
 ```
