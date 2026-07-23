@@ -22,39 +22,33 @@ Challenge: <https://cssbattle.dev/play/859niQYa0JbjMbzMNadA>
 ## Code
 
 ```html
-<style>/* 1st Try */
+<style>/* 1st Try with units replace */
   & {
-    margin:20 20;
-    outline:30px solid#3F3642;    
+    border:5vw solid#3F3642;    
     background:
-      linear-gradient(
-        #FEF6E2 20px,
-        #0000 0
-      )0 0/100% 40px #3F3642;
-    *{
-      background:radial-gradient(
+      radial-gradient(1q,
         #FEF6E2 60px,
         #3F3642 0
-      );
-      margin:50 100;
+      )50%/160px 160px no-repeat,
+      linear-gradient(
+        #FEF6E2 5vw,
+        #3F3642 0
+      )0 0/1% 5ch;
 ```
 
 ## Prettified code
 
 ```html
-<style>/* 1st Try */
+<style>/* 1st Try with units replace */
   & {
-    margin:20 20;
-    outline:30px solid#3F3642;    
+    border:5vw solid#3F3642;    
     background:
-      linear-gradient(
-        #FEF6E2 20px,
-        #0000 0
-      )0 0/100% 40px #3F3642;
-    *{
-      background:radial-gradient(
+      radial-gradient(1q,
         #FEF6E2 60px,
         #3F3642 0
-      );
-      margin:50 100;
+      )50%/160px 160px no-repeat,
+      linear-gradient(
+        #FEF6E2 5vw,
+        #3F3642 0
+      )0 0/1% 5ch;
 ```
