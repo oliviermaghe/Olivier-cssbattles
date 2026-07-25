@@ -25,12 +25,9 @@ Challenge: <https://cssbattle.dev/play/sbyqdHz6FqGxo0iTfaxX>
 <p><p>
 <style>
 & {
-  background: #94b31f;
-  border-radius: 2in;
-  border: 30px solid #fff;
-  margin: 30 80;
+  background: radial-gradient(1Q, #94b31f 90px, #fff 0 120px, #94b31f 0) fixed;
   * {
-    margin: -30 75;
+    margin: 30 185;
     background: radial-gradient(1Q, #94b31f 90px, #5f5f1e);
     * {
       height: 100%;
@@ -52,12 +49,9 @@ Challenge: <https://cssbattle.dev/play/sbyqdHz6FqGxo0iTfaxX>
 <p><p>
 <style>
 & {
-  background: #94b31f;
-  border-radius: 2in;
-  border: 30px solid #fff;
-  margin: 30 80;
+  background: radial-gradient(1Q, #94b31f 90px, #fff 0 120px, #94b31f 0) fixed;
   * {
-    margin: -30 75;
+    margin: 30 185;
     background: radial-gradient(1Q, #94b31f 90px, #5f5f1e);
     * {
       height: 100%;
