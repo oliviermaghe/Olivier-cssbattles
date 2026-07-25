@@ -22,20 +22,20 @@ Challenge: <https://cssbattle.dev/play/sbyqdHz6FqGxo0iTfaxX>
 ## Code
 
 ```html
-<p><p>
+<p><p></p>
 <style>
 & {
   background: radial-gradient(1Q, #94b31f 90px, #fff 0 120px, #94b31f 0) fixed;
   * {
-    margin: 30 185;
-    background: radial-gradient(1Q, #94b31f 90px, #5f5f1e);
-    * {
+    margin: 0 185;
+    background: radial-gradient(1Q, #0000 90px, #5f5f1e 0 120px,#0000);
+    p {
       height: 100%;
       margin: 0;
       rotate: 45deg;
-      + * {
+      +p {
         rotate: -45deg;
-        margin: -240 0 0;
+        margin: -300 0 0;
       }
     }
   }
@@ -46,20 +46,20 @@ Challenge: <https://cssbattle.dev/play/sbyqdHz6FqGxo0iTfaxX>
 ## Prettified code
 
 ```html
-<p><p>
+<p><p></p>
 <style>
 & {
   background: radial-gradient(1Q, #94b31f 90px, #fff 0 120px, #94b31f 0) fixed;
   * {
-    margin: 30 185;
-    background: radial-gradient(1Q, #94b31f 90px, #5f5f1e);
-    * {
+    margin: 0 185;
+    background: radial-gradient(1Q, #0000 90px, #5f5f1e 0 120px,#0000);
+    p {
       height: 100%;
       margin: 0;
       rotate: 45deg;
-      + * {
+      +p {
         rotate: -45deg;
-        margin: -240 0 0;
+        margin: -300 0 0;
       }
     }
   }
