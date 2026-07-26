@@ -22,7 +22,7 @@ Challenge: <https://cssbattle.dev/play/CUs5VythepaqtPdbLpI7>
 ## Code
 
 ```html
-<style>*{color:F7EC7D;margin:0 0 90;background:#e38f66;border-block:5em solid;*{margin:-130 90;font:63%a
+<style>*{margin:0 0 90;background:#e38f66;border-block:5em solid#F7EC7D;*{margin:-130 90;font:63%a
 ```
 
 ## Prettified code
@@ -30,10 +30,9 @@ Challenge: <https://cssbattle.dev/play/CUs5VythepaqtPdbLpI7>
 ```html
 <style>
 * {
-  color: F7EC7D;
   margin: 0 0 90;
   background: #e38f66;
-  border-block: 5em solid;
+  border-block: 5em solid #f7ec7d;
   * {
     margin: -130 90;
     font: 63% a;
