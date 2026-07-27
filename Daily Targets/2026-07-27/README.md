@@ -27,7 +27,7 @@ Challenge: <https://cssbattle.dev/play/9tg5HEQqGWBN3Apa88HN>
   margin:200 230 80 150;
   background:#3450AE;
   color:#22D16A;
-  --b:-30px;
+  --b:-32q;
   --c:-63q;
   box-shadow:inset 0 1in,
     0 -40px,
@@ -55,7 +55,7 @@ Challenge: <https://cssbattle.dev/play/9tg5HEQqGWBN3Apa88HN>
   margin:200 230 80 150;
   background:#3450AE;
   color:#22D16A;
-  --b:-30px;
+  --b:-32q;
   --c:-63q;
   box-shadow:inset 0 1in,
     0 -40px,
