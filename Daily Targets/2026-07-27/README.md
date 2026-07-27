@@ -30,20 +30,20 @@ Challenge: <https://cssbattle.dev/play/9tg5HEQqGWBN3Apa88HN>
   --b:-32q;
   --c:-63q;
   box-shadow:inset 0 1in,
-    0 -40px,
-    var(--b,-30px) -40px,
+    0 -5ch,
+    var(--b) -5ch,
     0 -5pc,
     var(--b) -5pc,
     var(--c) -5pc,
     0 -30vw,
     var(--b) -30vw,
     var(--c) -30vw,
-    var(--d,-90px) -30vw;
+    var(--d,-5lh) -30vw;
   *{
     margin:0 -110 0 40;
     --b:5vw;
-    --c:40px;
-    --d:60px;
+    --c:5ch;
+    --d:63q;
   }
 ```
 
@@ -58,19 +58,19 @@ Challenge: <https://cssbattle.dev/play/9tg5HEQqGWBN3Apa88HN>
   --b:-32q;
   --c:-63q;
   box-shadow:inset 0 1in,
-    0 -40px,
-    var(--b,-30px) -40px,
+    0 -5ch,
+    var(--b) -5ch,
     0 -5pc,
     var(--b) -5pc,
     var(--c) -5pc,
     0 -30vw,
     var(--b) -30vw,
     var(--c) -30vw,
-    var(--d,-90px) -30vw;
+    var(--d,-5lh) -30vw;
   *{
     margin:0 -110 0 40;
     --b:5vw;
-    --c:40px;
-    --d:60px;
+    --c:5ch;
+    --d:63q;
   }
 ```
