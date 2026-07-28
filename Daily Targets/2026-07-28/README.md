@@ -26,21 +26,21 @@ Challenge: <https://cssbattle.dev/play/LtfUvFd3HF61ZOGlL9Q9>
   & {
     box-shadow:
       inset 0 3in #4A9A86,
-      0 0 0 20px#EBF6F0;
+      0 0 0 5vw#EBF6F0;
     margin:0 100 300;
     background:#4C4C6B;    
     *{
       background:
-        conic-gradient(#4A9A86)50%/30px repeat-y,
+        conic-gradient(#4A9A86)50%/32q repeat-y,
       radial-gradient(
-        1q at 50% 20px,
-        #4A9A86 70px,
-        #0000 0
+        1q at 50% 5vw,
+        #4A9A86 74q,
+        #0000
       ),
         radial-gradient(
-        1q at 50% 20px,
-        #EBF6F0 90px,
-        #0000 0
+        1q at 50% 5vw,
+        #EBF6F0 95q,
+        #0000
       )
       ;
       margin:60 0 -300;
@@ -54,21 +54,21 @@ Challenge: <https://cssbattle.dev/play/LtfUvFd3HF61ZOGlL9Q9>
   & {
     box-shadow:
       inset 0 3in #4A9A86,
-      0 0 0 20px#EBF6F0;
+      0 0 0 5vw#EBF6F0;
     margin:0 100 300;
     background:#4C4C6B;    
     *{
       background:
-        conic-gradient(#4A9A86)50%/30px repeat-y,
+        conic-gradient(#4A9A86)50%/32q repeat-y,
       radial-gradient(
-        1q at 50% 20px,
-        #4A9A86 70px,
-        #0000 0
+        1q at 50% 5vw,
+        #4A9A86 74q,
+        #0000
       ),
         radial-gradient(
-        1q at 50% 20px,
-        #EBF6F0 90px,
-        #0000 0
+        1q at 50% 5vw,
+        #EBF6F0 95q,
+        #0000
       )
       ;
       margin:60 0 -300;
