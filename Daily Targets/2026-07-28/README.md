@@ -22,45 +22,55 @@ Challenge: <https://cssbattle.dev/play/LtfUvFd3HF61ZOGlL9Q9>
 ## Code
 
 ```html
-<p><style>
-  * {
-    margin:0 100;
-    background:#4C4C6B;
-    height:60;
+<style>
+  & {
     box-shadow:
-      inset 0 9in #4A9A86,
-      0 0 0 1.25em #EBF6F0;
+      inset 0 3in #4A9A86,
+      0 0 0 20px#EBF6F0;
+    margin:0 100 300;
+    background:#4C4C6B;    
     *{
-      border-radius:1in;
-      margin: 10 30;
-      height:140;
-      clip-path:inset(50px -20px -200px -20px);
-      p{
-        margin:0 55-400;
-        height:300;
-        font:0%a;
-      }
+      background:
+        conic-gradient(#4A9A86)50%/30px repeat-y,
+      radial-gradient(
+        1q at 50% 20px,
+        #4A9A86 70px,
+        #0000 0
+      ),
+        radial-gradient(
+        1q at 50% 20px,
+        #EBF6F0 90px,
+        #0000 0
+      )
+      ;
+      margin:60 0 -300;
+    }
 ```
 
 ## Prettified code
 
 ```html
-<p><style>
-  * {
-    margin:0 100;
-    background:#4C4C6B;
-    height:60;
+<style>
+  & {
     box-shadow:
-      inset 0 9in #4A9A86,
-      0 0 0 1.25em #EBF6F0;
+      inset 0 3in #4A9A86,
+      0 0 0 20px#EBF6F0;
+    margin:0 100 300;
+    background:#4C4C6B;    
     *{
-      border-radius:1in;
-      margin: 10 30;
-      height:140;
-      clip-path:inset(50px -20px -200px -20px);
-      p{
-        margin:0 55-400;
-        height:300;
-        font:0%a;
-      }
+      background:
+        conic-gradient(#4A9A86)50%/30px repeat-y,
+      radial-gradient(
+        1q at 50% 20px,
+        #4A9A86 70px,
+        #0000 0
+      ),
+        radial-gradient(
+        1q at 50% 20px,
+        #EBF6F0 90px,
+        #0000 0
+      )
+      ;
+      margin:60 0 -300;
+    }
 ```
