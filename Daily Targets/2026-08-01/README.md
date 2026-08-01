@@ -25,13 +25,13 @@ Challenge: <https://cssbattle.dev/play/Zbbue9b0vZdg6WFTCh4C>
 <style>
   * {
     background:#065840;
-    margin:66 166 127 116;
+    margin:91 141;
     color:#C3C3A8;
-    box-shadow:inset 0 2in,50px 50px;
+    box-shadow:25px 25px,-25px -25px;
     *{
       background:#C3C3A8;
       border-radius:46px;
-      margin:11 -39 -50 11;
+      margin:-14;
       box-shadow:none;
     }
 ```
@@ -42,13 +42,13 @@ Challenge: <https://cssbattle.dev/play/Zbbue9b0vZdg6WFTCh4C>
 <style>
   * {
     background:#065840;
-    margin:66 166 127 116;
+    margin:91 141;
     color:#C3C3A8;
-    box-shadow:inset 0 2in,50px 50px;
+    box-shadow:25px 25px,-25px -25px;
     *{
       background:#C3C3A8;
       border-radius:46px;
-      margin:11 -39 -50 11;
+      margin:-14;
       box-shadow:none;
     }
 ```
