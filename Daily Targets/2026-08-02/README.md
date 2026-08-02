@@ -24,12 +24,12 @@ Challenge: <https://cssbattle.dev/play/j5lNXe0bnIf95N6TxmQ7>
 ```html
 <style>
   & {
-    margin:70 124;
+    margin:70 125;
     background: #E05947;
     color:#EED9D9;
     box-shadow:inset 20px 0;
     *{
-      background:conic-gradient(#EED9D9)-9px/129% 50% no-repeat;
+      background:conic-gradient(#EED9D9)-10px/134% 50% no-repeat;
       border:70px dotted #EED9D9;
       margin:-30 -25;
 ```
@@ -39,12 +39,12 @@ Challenge: <https://cssbattle.dev/play/j5lNXe0bnIf95N6TxmQ7>
 ```html
 <style>
   & {
-    margin:70 124;
+    margin:70 125;
     background: #E05947;
     color:#EED9D9;
     box-shadow:inset 20px 0;
     *{
-      background:conic-gradient(#EED9D9)-9px/129% 50% no-repeat;
+      background:conic-gradient(#EED9D9)-10px/134% 50% no-repeat;
       border:70px dotted #EED9D9;
       margin:-30 -25;
 ```
