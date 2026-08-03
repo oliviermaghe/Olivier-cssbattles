@@ -22,37 +22,27 @@ Challenge: <https://cssbattle.dev/play/K5tl2pHRpNXPbByrJmVW>
 ## Code
 
 ```html
-<dt><dl><p><style>/* First Try */
-  & {
-    background: #ED18;
-    margin:40 175;
-    *{
-      background:#415E88;
-      margin:0;
-      border-radius:50%;
-      height:100%;
-      offset:ray(45deg);
-      p{
-        background:conic-gradient(#F7EC7D)
-          50%/20px repeat-y;
-      }
+<dt><dl><p><style>&{background:#F7EC7D;margin:40 175;*{background:#415E88;margin:0;border-radius:50%;height:100%;offset:ray(45deg);p{background:conic-gradient(#F7EC7D)50%/5vw repeat-y
 ```
 
 ## Prettified code
 
 ```html
-<dt><dl><p><style>/* First Try */
-  & {
-    background: #ED18;
-    margin:40 175;
-    *{
-      background:#415E88;
-      margin:0;
-      border-radius:50%;
-      height:100%;
-      offset:ray(45deg);
-      p{
-        background:conic-gradient(#F7EC7D)
-          50%/20px repeat-y;
-      }
+<dt><dl><p>
+<style>
+& {
+  background: #f7ec7d;
+  margin: 40 175;
+  * {
+    background: #415e88;
+    margin: 0;
+    border-radius: 50%;
+    height: 100%;
+    offset: ray(45deg);
+    p {
+      background: conic-gradient(#f7ec7d) 50% / 5vw repeat-y;
+    }
+  }
+}
+</style>
 ```
