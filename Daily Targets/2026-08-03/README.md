@@ -22,29 +22,5 @@ Challenge: <https://cssbattle.dev/play/K5tl2pHRpNXPbByrJmVW>
 ## Code
 
 ```html
-<dt><dl><p><style>&{margin:40 175;background:#f7ec7d;*{background:#415e88;border-radius:var(--a,50%);margin:0;height:100%;offset:ray(45deg);p{background:#f7ec7d;--a:;width:5vw
-```
-
-## Prettified code
-
-```html
-<dt><dl><p>
-<style>
-& {
-  margin: 40 175;
-  background: #f7ec7d;
-  * {
-    background: #415e88;
-    border-radius: var(--a, 50%);
-    margin: 0;
-    height: 100%;
-    offset: ray(45deg);
-    p {
-      background: #f7ec7d;
-      --a:;
-      width: 5vw;
-    }
-  }
-}
-</style>
+<dt><dl><p><style>&{margin:40 175;background:#f7ec7d;*{background:#415e88;border-radius:var(--a,50%);margin:0;height:100%;p{background:#f7ec7d;--a:;width:5vw}offset:ray(45deg
 ```
