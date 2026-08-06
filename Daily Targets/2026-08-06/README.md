@@ -22,33 +22,23 @@ Challenge: <https://cssbattle.dev/play/pSfUqdmXCS6D0TBIPxii>
 ## Code
 
 ```html
-<style>/* FIRST ATTEMPT */
-  * {
-    box-shadow:0 0 0 30ch #0E127D;
-    margin:80 190 80 60;
-    background: linear-gradient(
-      #EDDF5A 72px,
-      #0E127D 0 
-      )0 9mm/1% 1in;
-    *{
-      rotate:90deg;
-      margin:0 -130 0 140;
-      font:0%a;
+<style>*{box-shadow:0 0 0 90ch#0E127D;margin:80 50%80 60;background:linear-gradient(#EDDF5A 76q,#0E127D 0)0 9mm/1%1in;*{font:0%a;rotate:90deg;margin:0-140 0 140
 ```
 
 ## Prettified code
 
 ```html
-<style>/* FIRST ATTEMPT */
+<style>
+* {
+  box-shadow: 0 0 0 90ch #0e127d;
+  margin: 80 50% 80 60;
+  background: linear-gradient(#eddf5a 76Q, #0e127d 0) 0 9mm / 1% 1in;
   * {
-    box-shadow:0 0 0 30ch #0E127D;
-    margin:80 190 80 60;
-    background: linear-gradient(
-      #EDDF5A 72px,
-      #0E127D 0 
-      )0 9mm/1% 1in;
-    *{
-      rotate:90deg;
-      margin:0 -130 0 140;
-      font:0%a;
+    font: 0% a;
+    rotate: 90deg;
+    margin: 0 -140 0 140;
+  }
+}
+
+</style>
 ```
