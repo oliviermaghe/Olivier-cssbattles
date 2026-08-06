@@ -22,23 +22,28 @@ Challenge: <https://cssbattle.dev/play/pSfUqdmXCS6D0TBIPxii>
 ## Code
 
 ```html
-<style>*{box-shadow:0 0 0 90ch#0E127D;margin:80 50%80 60;background:linear-gradient(#EDDF5A 76q,#0E127D 0)0 9mm/1%1in;*{font:0%a;rotate:90deg;margin:0-140 0 140
+<img><img><style>&{background:#0E127D;*{margin:80 60;background:#EDDF5A;*{margin:10 0;padding:36 70;border-block:6vw solid#0E127D;+*{rotate:90deg
 ```
 
 ## Prettified code
 
 ```html
+<img><img>
 <style>
-* {
-  box-shadow: 0 0 0 90ch #0e127d;
-  margin: 80 50% 80 60;
-  background: linear-gradient(#eddf5a 76Q, #0e127d 0) 0 9mm / 1% 1in;
+& {
+  background: #0e127d;
   * {
-    font: 0% a;
-    rotate: 90deg;
-    margin: 0 -140 0 140;
+    margin: 80 60;
+    background: #eddf5a;
+    * {
+      margin: 10 0;
+      padding: 36 70;
+      border-block: 6vw solid #0e127d;
+      + * {
+        rotate: 90deg;
+      }
+    }
   }
 }
-
 </style>
 ```
