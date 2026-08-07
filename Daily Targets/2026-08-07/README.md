@@ -22,29 +22,23 @@ Challenge: <https://cssbattle.dev/play/jXxptfsRY42J9Y775Pc6>
 ## Code
 
 ```html
-<style>
-  & {
-    border: 26px dashed #EA9A52;
-    margin:120 54;
-    transform:skew(15deg);
-    background: #A82973;
-    *{
-      margin:-6;
-      background:#EA9A52;
-    }
+<style>&{border:26px dashed#ea9a52;margin:30%54;transform:skew(15deg);background:#a82973;*{background:#ea9a52;margin:-6
 ```
 
 ## Prettified code
 
 ```html
 <style>
-  & {
-    border: 26px dashed #EA9A52;
-    margin:120 54;
-    transform:skew(15deg);
-    background: #A82973;
-    *{
-      margin:-6;
-      background:#EA9A52;
-    }
+& {
+  border: 26px dashed #ea9a52;
+  margin: 30% 54;
+  transform: skew(15deg);
+  background: #a82973;
+  * {
+    background: #ea9a52;
+    margin: -6;
+  }
+}
+
+</style>
 ```
