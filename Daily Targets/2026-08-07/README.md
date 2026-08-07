@@ -29,7 +29,7 @@ Challenge: <https://cssbattle.dev/play/jXxptfsRY42J9Y775Pc6>
     transform:skew(15deg);
     background: #A82973;
     *{
-      margin:-7;
+      margin:-6;
       background:#EA9A52;
     }
 ```
@@ -44,7 +44,7 @@ Challenge: <https://cssbattle.dev/play/jXxptfsRY42J9Y775Pc6>
     transform:skew(15deg);
     background: #A82973;
     *{
-      margin:-7;
+      margin:-6;
       background:#EA9A52;
     }
 ```
