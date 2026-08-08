@@ -27,10 +27,10 @@ Challenge: <https://cssbattle.dev/play/QzsqG049RL4V9DItHXt7>
     background:#2E8DA6;
   * {
       background:conic-gradient(
-        at 56px 40px,
+        at 7ch 5ch,
         #2E8DA6 25%, #E5969E 0 50%,
         #2E8DA6 0 75%, #FFF1F1 0
-      )0/112px;
+      )0/7pc;
       margin:20 60 200;
     *{
       margin:180 0 -180;
@@ -45,10 +45,10 @@ Challenge: <https://cssbattle.dev/play/QzsqG049RL4V9DItHXt7>
     background:#2E8DA6;
   * {
       background:conic-gradient(
-        at 56px 40px,
+        at 7ch 5ch,
         #2E8DA6 25%, #E5969E 0 50%,
         #2E8DA6 0 75%, #FFF1F1 0
-      )0/112px;
+      )0/7pc;
       margin:20 60 200;
     *{
       margin:180 0 -180;
