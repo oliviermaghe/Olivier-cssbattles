@@ -22,33 +22,5 @@ Challenge: <https://cssbattle.dev/play/9PFKqCOsKmSizurb6gRt>
 ## Code
 
 ```html
-<style>
-  & {
-    outline:9in solid #3A2568;
-    margin:20 120;
-    border-radius:1in;
-    background: #F9DDC6;
-    *{
-      background:#3A2568;
-      outline:10px solid #3A2568;
-      border-inline:60px double #9D92C8;
-      margin:90 0;
-    }
-```
-
-## Prettified code
-
-```html
-<style>
-  & {
-    outline:9in solid #3A2568;
-    margin:20 120;
-    border-radius:1in;
-    background: #F9DDC6;
-    *{
-      background:#3A2568;
-      outline:10px solid #3A2568;
-      border-inline:60px double #9D92C8;
-      margin:90 0;
-    }
+<style>*{border-radius:5lh;outline:9em solid#3a2568;margin:20 120;background:#f9ddc6;*{background:#3a2568;border-inline:64Q double#9d92c8;margin:90 0;font:7%/0"
 ```
