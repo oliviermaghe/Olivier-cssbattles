@@ -1,6 +1,6 @@
 # Daily Target — Aug 15, 2026
 
-Challenge: <https://cssbattle.dev/play/qdiV2eKiBihdqV4XlG9i>
+Challenge: <https://cssbattle.dev/play/qdiV2eKiBihdqV4XlG9i#>
 
 ## Result
 
@@ -23,16 +23,18 @@ Challenge: <https://cssbattle.dev/play/qdiV2eKiBihdqV4XlG9i>
 
 ```html
 <style>
-  & {
-    margin:25 75;
-    border-radius:90px;
-    corner-shape:notch;
-    box-shadow:inset 3in 0 #D9BB61;
-    background:#FFF;
-    *{
-      outline:10px solid #FFFFFF;
-      margin:50 50;
-          border-radius:40px;
-    corner-shape:scoop;
-      background:#394257;
+* {
+  margin: 25 75;
+  border-radius: var(--b, 90px);
+  corner-shape: var(--s, notch);
+  box-shadow: inset 3in 0 var(--c, #d9bb61);
+  * {
+    outline: 10px solid #fff;
+    margin: 50 50;
+    --b: 40px;
+    --s: scoop;
+    --c: #394257;
+  }
+}
+</style>
 ```
