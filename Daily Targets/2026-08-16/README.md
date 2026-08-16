@@ -23,22 +23,23 @@ Challenge: <https://cssbattle.dev/play/SSYv7g49QSFpWX8VVeXf>
 
 ```html
 <style>
+* {
+  margin: -47 285 277 75;
+  border-radius: 1in;
+  background: #6592cf;
+  color: 243D83;
+  box-shadow:
+    0 9ch,
+    0 9lh,
+    0 63vw var(--a,
+    ,70vh 9ch,
+    70vh 9lh,
+    70vh 63vw);
   * {
-    margin:-45 285 275 75;
-    background: #6592CF;
-    border-radius:1in;
-    color:#243D83;
-    box-shadow:
-      0 70px,
-      0 160px,
-      0 250px 
-      var(--a,
-      ,210px 70px,
-      210px 160px,
-      210px 250px);
-    *{
-      border-radius:1in;
-      margin:25 -200 25 10;
-      color:#6592CF;
-      --a:;
+    margin: 62% -500% 25 10;
+    color: 6592CF;
+    --a:;
+  }
+}
+</style>
 ```
