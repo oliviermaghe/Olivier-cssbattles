@@ -106,7 +106,7 @@
 <li><a href="./Daily%20Targets/2026-08-12/">Aug 12, 2026</a> (212 Characters)</li>
 <li><a href="./Daily%20Targets/2026-08-14/">Aug 14, 2026</a> (162 Characters)</li>
 <li><a href="./Daily%20Targets/2026-08-15/">Aug 15, 2026</a> (168 Characters)</li>
-<li><a href="./Daily%20Targets/2026-08-16/">Aug 16, 2026</a> (279 Characters)</li>
+<li><a href="./Daily%20Targets/2026-08-16/">Aug 16, 2026</a> (189 Characters)</li>
 </ul>
 </details>
 </li>

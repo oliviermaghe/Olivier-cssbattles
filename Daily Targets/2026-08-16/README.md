@@ -22,24 +22,5 @@ Challenge: <https://cssbattle.dev/play/SSYv7g49QSFpWX8VVeXf>
 ## Code
 
 ```html
-<style>
-* {
-  margin: -47 285 277 75;
-  border-radius: 1in;
-  background: #6592cf;
-  color: 243D83;
-  box-shadow:
-    0 9ch,
-    0 9lh,
-    0 63vw var(--a,
-    ,70vh 9ch,
-    70vh 9lh,
-    70vh 63vw);
-  * {
-    margin: 62% -500% 25 10;
-    color: 6592CF;
-    --a:;
-  }
-}
-</style>
+<style>*{margin:-47 285 277 75;border-radius:1in;background:#6592cf;color:243D83;box-shadow:0 9ch,0 9lh,0 63vw var(--a,,70vh 9ch,70vh 9lh,70vh 63vw);*{margin:62%-500%25 10;color:6592CF;--a:
 ```
