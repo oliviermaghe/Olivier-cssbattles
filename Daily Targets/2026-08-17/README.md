@@ -22,5 +22,5 @@ Challenge: <https://cssbattle.dev/play/H7DBc8YLyOFJFNJ78t9U>
 ## Code
 
 ```html
-<style>&{background:repeating-conic-gradient(#F1E1BE,25%,#7C7565 0 50%)100%0/50vh 50vh no-repeat,radial-gradient(1q,#7C7565 75px,#F1E1BE)53q
+<style>&{background:repeating-conic-gradient(#f1e1be,25%,#7c7565 0 50%)100%0/50vh 50%no-repeat,radial-gradient(1Q,#7c7565 75px,#f1e1be)53Q
 ```
