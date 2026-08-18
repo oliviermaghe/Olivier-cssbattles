@@ -89,7 +89,7 @@
 </li>
 <li>
 <details>
-<summary><strong>August 2026 (17/18+)</strong></summary>
+<summary><strong>August 2026 (17/19+)</strong></summary>
 
 <ul>
 <li><a href="./Daily%20Targets/2026-08-01/">Aug 1, 2026</a> (150 Characters)</li>
@@ -108,7 +108,7 @@
 <li><a href="./Daily%20Targets/2026-08-15/">Aug 15, 2026</a> (168 Characters)</li>
 <li><a href="./Daily%20Targets/2026-08-16/">Aug 16, 2026</a> (189 Characters)</li>
 <li><a href="./Daily%20Targets/2026-08-17/">Aug 17, 2026</a> (138 Characters)</li>
-<li><a href="./Daily%20Targets/2026-08-18/">Aug 18, 2026</a> (167 Characters)</li>
+<li><a href="./Daily%20Targets/2026-08-18/">Aug 18, 2026</a> (160 Characters)</li>
 </ul>
 </details>
 </li>
