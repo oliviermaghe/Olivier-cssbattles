@@ -22,16 +22,5 @@ Challenge: <https://cssbattle.dev/play/OqjzeCZTtlVTfqqvKCRg>
 ## Code
 
 ```html
-<style>
-  * {
-    color:282828;
-    border:solid;
-    border-width:0 32q;
-    margin:50 100;
-    background: #51A499;
-    *{
-      border-width:0 32q 5vw;
-      background:conic-gradient(#51A499 25%,#EAC049 0)60px;
-      margin:0 0 100;
-      -webkit-box-reflect:below
+<style>*{margin:50 100;background:conic-gradient(at 60px 5pc,#EAC049 25%,#282828 0)0 0/35vw 30vw;color:51A499;box-shadow:var(--a,0 0 0 9em);*{margin:80;--a:0-5pc,0 5pc
 ```
