@@ -22,5 +22,5 @@ Challenge: <https://cssbattle.dev/play/CBG1TILZdQr1NiLspgv1>
 ## Code
 
 ```html
-<style>&{background:radial-gradient(1q,#FFF 5lh,#BB4E60 0);*{margin:110 160;border-image:conic-gradient(#BB4E60)40/5vw
+<style>&{background:radial-gradient(1Q,#fff 5lh,#bb4e60);*{margin:110 160;border-image:conic-gradient(#bb4e60)40/5vw
 ```
