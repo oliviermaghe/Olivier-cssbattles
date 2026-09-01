@@ -131,7 +131,7 @@
 <summary><strong>September 2026 (1/1+)</strong></summary>
 
 <ul>
-<li><a href="./Daily%20Targets/2026-09-01/">Sep 1, 2026</a> (167 Characters)</li>
+<li><a href="./Daily%20Targets/2026-09-01/">Sep 1, 2026</a> (161 Characters)</li>
 </ul>
 </details>
 </li>
