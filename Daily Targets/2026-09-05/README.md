@@ -22,5 +22,18 @@ Challenge: <https://cssbattle.dev/play/PBllh6aGfOPa9BtjR5m1>
 ## Code
 
 ```html
-<style>&{border-radius:27%;border:32q solid;margin:40 90;background:#fff;outline:9em solid#f8b140;*{background:#f8b140;border-inline:32q solid;margin:40 81%40-60
+<style>
+& {
+  border-radius: 60px;
+  border: 30px solid;
+  margin: 40 90;
+  background: #fff;
+  outline: 9em solid #f8b140;
+  * {
+    background: #f8b140;
+    border-inline: 30px solid;
+    margin: 40 81% 40 -60;
+  }
+}
+</style>
 ```
