@@ -18,7 +18,7 @@
 </li>
 </ul>
 
-### Daily Targets (86)
+### Daily Targets (87)
 
 <ul>
 <li>
@@ -128,7 +128,7 @@
 </li>
 <li>
 <details>
-<summary><strong>September 2026 (5/5+)</strong></summary>
+<summary><strong>September 2026 (6/6+)</strong></summary>
 
 <ul>
 <li><a href="./Daily%20Targets/2026-09-01/">Sep 1, 2026</a> (161 Characters)</li>
@@ -136,6 +136,7 @@
 <li><a href="./Daily%20Targets/2026-09-03/">Sep 3, 2026</a> (180 Characters)</li>
 <li><a href="./Daily%20Targets/2026-09-04/">Sep 4, 2026</a> (130 Characters)</li>
 <li><a href="./Daily%20Targets/2026-09-05/">Sep 5, 2026</a> (162 Characters)</li>
+<li><a href="./Daily%20Targets/2026-09-06/">Sep 6, 2026</a> (265 Characters)</li>
 </ul>
 </details>
 </li>
