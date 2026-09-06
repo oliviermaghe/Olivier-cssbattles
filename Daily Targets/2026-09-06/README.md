@@ -22,19 +22,5 @@ Challenge: <https://cssbattle.dev/play/WfbQAGPzXCTFkJjKBxhZ>
 ## Code
 
 ```html
-<img a><img><img b><style>
-  & {
-    margin:75 200;
-    outline:10px solid #FFF;
-    *{
-      margin: 0 -180;
-    
-    img{
-      border-radius:10px;
-      padding:45;
-      background:#6D57C4;
-      margin:30 15;
-    }
-    [a]{rotate:-15deg;}
-   [b]{rotate:15deg;}
+<img a><img><img b><style>&{outline:11Q solid#fff;margin:105 200;*{margin:0-180;img{padding:45;margin:0 15;background:#6d57c4;border-radius:11Q}[a]{rotate:-15deg}[b]{rotate:15deg
 ```

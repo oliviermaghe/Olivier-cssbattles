@@ -136,7 +136,7 @@
 <li><a href="./Daily%20Targets/2026-09-03/">Sep 3, 2026</a> (180 Characters)</li>
 <li><a href="./Daily%20Targets/2026-09-04/">Sep 4, 2026</a> (130 Characters)</li>
 <li><a href="./Daily%20Targets/2026-09-05/">Sep 5, 2026</a> (162 Characters)</li>
-<li><a href="./Daily%20Targets/2026-09-06/">Sep 6, 2026</a> (265 Characters)</li>
+<li><a href="./Daily%20Targets/2026-09-06/">Sep 6, 2026</a> (178 Characters)</li>
 </ul>
 </details>
 </li>
