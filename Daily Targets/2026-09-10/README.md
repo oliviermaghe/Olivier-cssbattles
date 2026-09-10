@@ -22,24 +22,5 @@ Challenge: <https://cssbattle.dev/play/YdSTFgl2iKzGCW1ahmEz>
 ## Code
 
 ```html
-<p>
-<style>
-* {
-  border-radius: 1in;
-}
-& {
-  margin: 70 150;
-  border: 5vw solid #333;
-  background: #fff;
-  * {
-    background: linear-gradient(var(--a, transparent) 50%, #333333 0);
-    margin: -60 -50;
-    * {
-      --a: #fff;
-      margin: 72 70 0 0;
-      height: 60;
-    }
-  }
-}
-</style>
+<style>*{border-radius:1in 1in 0 0;margin:70 150 144;box-shadow:inset 0 0 0 2.5ch#333,53q 32q#FFF;*{scale:-1;margin:80-30-114;font:3em"
 ```
