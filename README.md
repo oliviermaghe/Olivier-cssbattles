@@ -128,7 +128,7 @@
 </li>
 <li>
 <details>
-<summary><strong>September 2026 (15/15+)</strong></summary>
+<summary><strong>September 2026 (15/16+)</strong></summary>
 
 <ul>
 <li><a href="./Daily%20Targets/2026-09-01/">Sep 1, 2026</a> (161 Characters)</li>
@@ -145,7 +145,7 @@
 <li><a href="./Daily%20Targets/2026-09-12/">Sep 12, 2026</a> (116 Characters)</li>
 <li><a href="./Daily%20Targets/2026-09-13/">Sep 13, 2026</a> (169 Characters)</li>
 <li><a href="./Daily%20Targets/2026-09-14/">Sep 14, 2026</a> (238 Characters)</li>
-<li><a href="./Daily%20Targets/2026-09-15/">Sep 15, 2026</a> (168 Characters)</li>
+<li><a href="./Daily%20Targets/2026-09-15/">Sep 15, 2026</a> (166 Characters)</li>
 </ul>
 </details>
 </li>
