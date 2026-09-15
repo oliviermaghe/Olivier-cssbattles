@@ -22,5 +22,5 @@ Challenge: <https://cssbattle.dev/play/5ZezM7kuEUF3qoAOjCIx>
 ## Code
 
 ```html
-<img><img d><img d><img r><style>&{background:#993576;*{margin:20 70;img{background:#5ADAB8;padding:55;margin:10;border-radius:1in 1in 0}[r]{scale:-1}[d]{border-radius:64%0
+<img><img d><img d><img r><style>&{background:#993576;*{margin:5%70;img{background:#5adab8;padding:55;margin:10;border-radius:var(--a,1in 1in)0}[r]{scale:-1}[d]{--a:64%
 ```
