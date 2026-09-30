@@ -28,14 +28,15 @@ Challenge: <https://cssbattle.dev/play/F8dyF0XEp3g1Ff4mG90c>
 }
 * {
   margin:25%160;
+  color:4355cc;
   box-shadow:
-    0 0 0 11q #4355cc,
-    var(--a,0 0 0 30px #fcc9e3,0 0 0 5ch #4355cc);
+    0 0 0 11q,
+    var(--a,0 0 0 30px #fcc9e3,0 0 0 5ch);
   background: #f8f5f1;
   * {
     margin: -30 90 110 -30;
     -webkit-box-reflect: right 25vw;
-    --a: 0 0 0 10px #4355cc, 5ch 0 0 10px #f8f5f1;
+    --a: 0 0 0 10px, 5ch 0 0 10px #f8f5f1;
   }
 }
 </style>
