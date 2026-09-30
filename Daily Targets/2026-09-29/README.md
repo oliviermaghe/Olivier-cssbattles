@@ -29,6 +29,6 @@ Challenge: <https://cssbattle.dev/play/EABR37FZaeuj1tSIEZo3>
     background: #C0D6E7;
     box-shadow:0 30px 0 #C0D6E7, 0 50px #CC5360;   
     *{
-      border-block:63q double #CC5360;
+      border-block:64q double #CC5360;
       margin:20 30 -10;
 ```
