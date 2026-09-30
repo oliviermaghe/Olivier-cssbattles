@@ -23,9 +23,7 @@ Challenge: <https://cssbattle.dev/play/F8dyF0XEp3g1Ff4mG90c>
 
 ```html
 <style>
-& {
-  border-radius: 0 0 1in 1in;
-}
+& {border-radius: 0 0 1in 1in;}
 * {
   margin:25%160;
   color:4355cc;
@@ -36,7 +34,7 @@ Challenge: <https://cssbattle.dev/play/F8dyF0XEp3g1Ff4mG90c>
   * {
     margin: -30 90 110 -30;
     -webkit-box-reflect: right 25vw;
-    --a: 0 0 0 10px, 5ch 0 0 10px #f8f5f1;
+    --a: 0 0 0 11q, 5ch 0 0 11q #f8f5f1;
   }
 }
 </style>
