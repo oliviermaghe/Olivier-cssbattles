@@ -29,7 +29,7 @@ Challenge: <https://cssbattle.dev/play/F8dyF0XEp3g1Ff4mG90c>
   color:4355cc;
   box-shadow:
     0 0 0 11q,
-    var(--a,0 0 0 30px #fcc9e3,0 0 0 5ch);
+    var(--a,0 0 0 32q #fcc9e3,0 0 0 5ch);
   background: #f8f5f1;
   * {
     margin: -30 90 110 -30;
