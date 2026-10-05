@@ -28,13 +28,13 @@ Challenge: <https://cssbattle.dev/play/kKeIFq1dBXUmV9k1c7d0>
 }
 * {
   color: D16161;
-  box-shadow: var(--a, inset 0 9in);
+  box-shadow: inset 0 2in;
   margin: 90 60% 90 40;
   border-radius: 32Q;
   * {
     background: #f7cb71;
     margin: 35;
-    --a: 55vh -35px #4d52d0, 55vh 35px #4d52d0, 235px -35px, 235px 35px;
+    box-shadow: 55vh -37q #4d52d0, 55vh 37q #4d52d0, 249q -37q, 249q 37q;
   }
 }
 </style>
