@@ -18,7 +18,7 @@
 </li>
 </ul>
 
-### Daily Targets (112)
+### Daily Targets (113)
 
 <ul>
 <li>
@@ -166,10 +166,11 @@
 </li>
 <li>
 <details>
-<summary><strong>October 2026 (1/3+)</strong></summary>
+<summary><strong>October 2026 (2/5+)</strong></summary>
 
 <ul>
 <li><a href="./Daily%20Targets/2026-10-02/">Oct 2, 2026</a> (228 Characters)</li>
+<li><a href="./Daily%20Targets/2026-10-04/">Oct 4, 2026</a> (155 Characters)</li>
 </ul>
 </details>
 </li>
