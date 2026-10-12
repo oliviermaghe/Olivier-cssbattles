@@ -166,7 +166,7 @@
 </li>
 <li>
 <details>
-<summary><strong>October 2026 (11/12+)</strong></summary>
+<summary><strong>October 2026 (11/13+)</strong></summary>
 
 <ul>
 <li><a href="./Daily%20Targets/2026-10-01/">Oct 1, 2026</a> (303 Characters)</li>
@@ -179,7 +179,7 @@
 <li><a href="./Daily%20Targets/2026-10-09/">Oct 9, 2026</a> (152 Characters)</li>
 <li><a href="./Daily%20Targets/2026-10-10/">Oct 10, 2026</a> (176 Characters)</li>
 <li><a href="./Daily%20Targets/2026-10-11/">Oct 11, 2026</a> (187 Characters)</li>
-<li><a href="./Daily%20Targets/2026-10-12/">Oct 12, 2026</a> (546 Characters)</li>
+<li><a href="./Daily%20Targets/2026-10-12/">Oct 12, 2026</a> (338 Characters)</li>
 </ul>
 </details>
 </li>

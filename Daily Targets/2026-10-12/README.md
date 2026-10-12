@@ -22,30 +22,20 @@ Challenge: <https://cssbattle.dev/play/GtfVbDS2vn8CI4nnV4Yl>
 ## Code
 
 ```html
-<img><style>/* streak freeze come back later */
+<style>
   * {
-    margin:40 90;
+    margin:20 90;
     background: 
       radial-gradient(
-        at top left,#1D5260 60px,#0000 0
-      )no-repeat 
-      var(--b,#84B9C7);
-    border:30px solid #ECD5E4;
+        1q at 0 0,#1D5260 60px,#0000 0
+      )no-repeat 0 50px #84B9C7;
+    border-inline:30px solid #ECD5E4;
     *{
-      --b:;
-      scale:-1;
-      margin:-30;
-      
-      img{
-        border:none;
-        background:none;
-        padding:38;
-        margin:42;
-      border-radius:30%;
-      corner-shape:notch;
-      color:#ECD5E4;
-      box-shadow:-95px 95px,
-        -95px -95px ,
-        95px 95px ,
-        95px -95px ;}
+background: 
+      radial-gradient(
+        1q at 100% 0,#1D5260 60px,#0000 0
+      )no-repeat 0 50px
+      ;
+      margin:0 -30;
+      rotate:90deg;
 ```
