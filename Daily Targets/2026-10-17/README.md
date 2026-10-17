@@ -22,5 +22,5 @@ Challenge: <https://cssbattle.dev/play/pX4BmQEORMGXlg74scvd>
 ## Code
 
 ```html
-<style>&{outline:9in solid#73493A;margin:65 115;background:conic-gradient(from -90deg at 60px 30vw,#FEF9CE 75%,#A6BA86 0)0/110px
+<style>&{outline:9in solid#73493a;margin:65 115;background:conic-gradient(at 60px 53q,#fef9ce 75%,#a6ba86 0)0 30vw/110px 170px
 ```
