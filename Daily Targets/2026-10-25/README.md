@@ -24,7 +24,7 @@ Challenge: <https://cssbattle.dev/play/Y5ONBPIczkMuJt7MUtxP>
 ```html
 <img><style>
   & {
-    border:30px solid#36443B;
+    border:31px solid#36443B;
     margin:60 50;
     background: #809E97;
     *{
@@ -32,8 +32,8 @@ Challenge: <https://cssbattle.dev/play/Y5ONBPIczkMuJt7MUtxP>
       margin:80 36 -65;
       clip-path:polygon(50% 0,100% 100%,0 100%);
       *{
-        margin:20 30 0;
-        padding:35 55;
+        margin:19 27 0;
+        padding:35 57;
         background:#36443B;
       }
 ```
