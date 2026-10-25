@@ -33,7 +33,7 @@ Challenge: <https://cssbattle.dev/play/z3C2kNvqCfxq06B81Mfm>
           #CE4830 25%,#EDF4B0 0
         )0 0/90px 130px;
       box-shadow:0 0 0 9in#CE4830;
-    >*{
+    *{
       background:#CE4830;
       margin:130 0 -50;
       img{
