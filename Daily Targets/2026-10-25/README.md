@@ -22,18 +22,5 @@ Challenge: <https://cssbattle.dev/play/Y5ONBPIczkMuJt7MUtxP>
 ## Code
 
 ```html
-<img><style>
-  & {
-    margin:60 50;
-    border:33q solid #36443B;
-    background: #809E97;
-    *{
-      margin:0 62 -32;
-    border:solid #0000;
-    border-width:0 55 70;
-    border-bottom-color:#809E97;
-    *{
-      padding:50 0;
-      margin:-1 -53 -90;
-      border-bottom-color:#36443B;
+<img><style>&{margin:60 50;border:33q solid#36443B;background:#809E97;*{margin:0 62-32;border:solid#0000;border-width:0 55 70;border-bottom-color:#809E97;*{padding:50 0;margin:-1-53-90;border-bottom-color:#36443B
 ```
