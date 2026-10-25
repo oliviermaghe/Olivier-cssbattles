@@ -24,16 +24,16 @@ Challenge: <https://cssbattle.dev/play/Y5ONBPIczkMuJt7MUtxP>
 ```html
 <img><style>
   & {
-    border:31px solid#36443B;
     margin:60 50;
+    border:33q solid #36443B;
     background: #809E97;
     *{
-      background:#809E97;
-      margin:80 36 -65;
-      clip-path:polygon(50% 0,100% 100%,0 100%);
-      *{
-        margin:19 27 0;
-        padding:35 57;
-        background:#36443B;
-      }
+      margin:0 62 -32;
+    border:solid #0000;
+    border-width:0 55 70;
+    border-bottom-color:#809E97;
+    *{
+      padding:50 0;
+      margin:-1 -53 -90;
+      border-bottom-color:#36443B;
 ```
