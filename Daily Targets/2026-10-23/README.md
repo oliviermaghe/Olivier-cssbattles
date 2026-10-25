@@ -36,14 +36,13 @@ Challenge: <https://cssbattle.dev/play/z3C2kNvqCfxq06B81Mfm>
     >*{
       background:#CE4830;
       margin:130 0 -50;
-      padding:10 30;
       img{
-        width:100;height:20;
-        margin:0 auto 10;
+        padding:10 50;
+        margin:10 30 0;
         background:#EDF4B0;
         +img{      
-          margin:0 20;
-          width:60;
+          padding:10 30;
+          margin:10 50
         }
       }
 ```
