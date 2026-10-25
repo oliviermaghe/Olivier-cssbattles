@@ -22,7 +22,7 @@ Challenge: <https://cssbattle.dev/play/z3C2kNvqCfxq06B81Mfm>
 ## Code
 
 ```html
-<style>/* to continue */
+<img><img><style>
   & {
     border-radius:1in;
     background:#CE4830;
@@ -33,14 +33,17 @@ Challenge: <https://cssbattle.dev/play/z3C2kNvqCfxq06B81Mfm>
           #CE4830 25%,#EDF4B0 0
         )0 0/90px 130px;
       box-shadow:0 0 0 9in#CE4830;
-    *{
-      border:solid#CE4830;
-      border-width:10 30;
-      background:#EDF4B0;
-      margin:131 0 -12;
-      *{
-        margin:10 20 -27;
-        height:20;
+    >*{
+      background:#CE4830;
+      margin:130 0 -50;
+      padding:10 30;
+      img{
+        width:100;height:20;
+        margin:0 auto 10;
         background:#EDF4B0;
+        +img{      
+          margin:0 20;
+          width:60;
+        }
       }
 ```
