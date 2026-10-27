@@ -22,5 +22,5 @@ Challenge: <https://cssbattle.dev/play/0bO40qQCb991cXkXDRvj>
 ## Code
 
 ```html
-<style>&{outline:9in solid#72374D;margin:30%140 60;corner-shape:bevel;border-radius:0 50%;background:#FFF;*{margin:60 0 0 60;background:#72374D
+<style>&{outline:3in solid#72374d;margin:30%35%60;corner-shape:notch bevel;border-radius:0 50%50%
 ```
