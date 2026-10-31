@@ -197,7 +197,7 @@
 <li><a href="./Daily%20Targets/2026-10-28/">Oct 28, 2026</a> (198 Characters)</li>
 <li><a href="./Daily%20Targets/2026-10-29/">Oct 29, 2026</a> (187 Characters)</li>
 <li><a href="./Daily%20Targets/2026-10-30/">Oct 30, 2026</a> (159 Characters)</li>
-<li><a href="./Daily%20Targets/2026-10-31/">Oct 31, 2026</a> (409 Characters)</li>
+<li><a href="./Daily%20Targets/2026-10-31/">Oct 31, 2026</a> (407 Characters)</li>
 </ul>
 </details>
 </li>
