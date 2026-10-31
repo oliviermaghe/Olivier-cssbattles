@@ -33,13 +33,13 @@ Challenge: <https://cssbattle.dev/play/TWNhOfMsYQnVbyjKPFeG>
     *{
       margin:81% 130 -70 -70;
       background:conic-gradient(
-        from 180deg at 70% 30%,#62306D 25%, #F7EC7D 0
+        from 180deg at 70% 30%,#0000 25%, #F7EC7D 0
       );
       p{
         margin:0;
-        height:100px;
+        height:25vw;
         scale:-1;
-        translate:200px -200px
+        translate:50vw -50vw
       }
     }
 ```
