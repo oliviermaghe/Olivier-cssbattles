@@ -1,0 +1,53 @@
+name: Image de partage (Open Graph)
+
+# Régénère og-latest.png à partir du dernier Daily Target et le publie sur GitHub Pages :
+# https://oliviermaghe.github.io/Olivier-cssbattles/og-latest.png
+# Aucun commit n'est fait dans le repo : CSSHub peut continuer à pousser sans conflit.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "Daily Targets/**"
+      - ".github/og/**"
+      - ".github/workflows/og-image.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Générer og-latest.png
+        run: |
+          pip install --quiet pillow
+          python .github/og/generate.py _site
+          printf '<!doctype html><meta charset="utf-8"><meta http-equiv="refresh" content="0; url=https://oliviermaghe.com/css-battle.html"><title>CSS Battle</title>' > _site/index.html
+
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
