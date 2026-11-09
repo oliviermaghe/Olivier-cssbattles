@@ -22,5 +22,5 @@ Challenge: <https://cssbattle.dev/play/V3rcPynSdxNerqyJeVdL>
 ## Code
 
 ```html
-<p><style>body{background:#1d025e;margin:125 75;border:dashed 50px;color:469dba}p{margin:-50 50 40;border-top:50px dotted;outline:10px solid#1d025e;box-shadow:0-60px,0-100px,0 90px
+<p><style>body{background:#1d025e;margin:125 75;border:dashed 53Q;color:469dba;p{margin:-50 50 40;border-top:53Q dotted;outline:11Q solid#1d025e;box-shadow:0-63Q,0-25vw,0 5lh
 ```
