@@ -28,15 +28,13 @@ Challenge: <https://cssbattle.dev/play/im5bpfWBaCfsHz3ynGXj>
     border-radius:1in;
     background:#A98955;
     color:373737;
-    box-shadow:
+    box-shadow:var(--a,
       inset 0 3in,
-      -60px 120px#FFF,
-      -40px 80px,
-      -20px 40px#FFF;
+      -60px 30vw#FFF,
+      -5ch 5pc,
+      -5vw 5ch#FFF);
     *{
-      margin:0 27;
-      translate:85px 60px;
-      rotate:-90deg;
-      box-shadow:0 -33px,0 0 0 43px #A98955;
+      margin:0 5 -58% 170;
+      --a:-30px 0,0 0 0 5ch #A98955;
     }
 ```
