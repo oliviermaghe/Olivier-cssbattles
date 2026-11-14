@@ -22,5 +22,19 @@ Challenge: <https://cssbattle.dev/play/oz2eumlqU32gRrkqBfri>
 ## Code
 
 ```html
-<style>*{margin:60 110;border-radius:1in;border:5vw solid;border-color:#3537#0000#0000#3537;rotate:45deg;background:#F3AC3C;*{border:32q solid#0000;border-right-color:#3537;margin:30
+<style>
+* {
+  margin: 60 110 150;
+  border-radius: 1in 1in 0 0;
+  border: 5vw solid #998235;
+  border-bottom: 0;
+  background: #f3ac3c;
+  * {
+    border-width: 32Q;
+    scale: -1;
+    margin: 70 30 -40;
+    clip-path: polygon(100% 0, 50% 100%, 0 0);
+  }
+}
+</style>
 ```
