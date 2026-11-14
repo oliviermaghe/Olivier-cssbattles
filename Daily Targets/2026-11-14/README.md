@@ -22,19 +22,5 @@ Challenge: <https://cssbattle.dev/play/oz2eumlqU32gRrkqBfri>
 ## Code
 
 ```html
-<style>
-* {
-  margin: 60 110 150;
-  border-radius: 1in 1in 0 0;
-  border: 5vw solid #998235;
-  border-bottom: 0;
-  background: #f3ac3c;
-  * {
-    border-width: 32Q;
-    scale: -1;
-    margin: 70 30 -40;
-    clip-path: polygon(100% 0, 50% 100%, 0 0);
-  }
-}
-</style>
+<style>&{background:radial-gradient(1q at bottom,#F3AC3C 74Q,#998235 0 5LH,#F3AC3C)0-50vh;*{border-radius:1in;border:32Q solid;border-color:#0000#0000#1436;margin:110 160
 ```
