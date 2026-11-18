@@ -22,19 +22,5 @@ Challenge: <https://cssbattle.dev/play/OuZGRWZ169z3th35sN48>
 ## Code
 
 ```html
-<img><img s r><img><img><img s><img><img><img s r><img><style>
-  & {
-    background: #DC26;margin:67 47;
-    img{
-      padding:15 40;
-      background:#4760B6;
-      border-radius:1em;
-      margin:0 -10 30 30;
-      &[s]{
-        padding:15;
-        font:50%a;
-        &[r]{
-          rotate:45deg;
-        }
-      }
+<img><img s r><img><img><img s><img><img><img s r><img><style>&{background:#DC26;margin:67 47;img{padding:15 40;background:#4760B6;border-radius:1em;margin:0-10 30 30;&[s]{padding:15;font:50%a;&[r]{rotate:45deg
 ```
