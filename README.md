@@ -225,7 +225,7 @@
 <li><a href="./Daily%20Targets/2026-11-18/">Nov 18, 2026</a> (210 Characters)</li>
 <li><a href="./Daily%20Targets/2026-11-19/">Nov 19, 2026</a> (186 Characters)</li>
 <li><a href="./Daily%20Targets/2026-11-20/">Nov 20, 2026</a> (158 Characters)</li>
-<li><a href="./Daily%20Targets/2026-11-21/">Nov 21, 2026</a> (154 Characters)</li>
+<li><a href="./Daily%20Targets/2026-11-21/">Nov 21, 2026</a> (152 Characters)</li>
 </ul>
 </details>
 </li>
