@@ -22,5 +22,5 @@ Challenge: <https://cssbattle.dev/play/smEqIxdrhyUroSkKzEfp>
 ## Code
 
 ```html
-<dl><dt><p><style>&{background:#0D1335;*{border-block:53q solid#FBFAE2;height:40;width:20;offset:ray(45deg
+<dt><p><style>&{background:#0d1335}*{width:20;height:40;border-block:53Q solid#fbfae2;offset:ray(45deg
 ```
