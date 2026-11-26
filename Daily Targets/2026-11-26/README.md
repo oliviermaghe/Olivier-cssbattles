@@ -24,12 +24,12 @@ Challenge: <https://cssbattle.dev/play/TKYsmdfc2XMpMT4qG9mS>
 ```html
 <img><img><style>
   * {
-    margin:100q 153q;
+    margin:95 145;
     border:40px dotted #F075B0;
     background:#5F133F;
     *{
       border-radius:1in;
-      margin:-42q;
+      margin:-40px;
       border:10px solid #F075B0;
       *{
         padding:10 20;
