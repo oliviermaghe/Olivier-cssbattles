@@ -33,11 +33,10 @@ Challenge: <https://cssbattle.dev/play/TKYsmdfc2XMpMT4qG9mS>
       margin:-5ch;
       border:11q solid;
       *{
-        padding:10 20;
-        border:0;
-        color:F7BED9;
+        padding:0 10;
+        color:#0000;
         margin:35 25 -55;
-        box-shadow:-53q 0,53q 0;
+        box-shadow:-53q 0#F7BED9,53q 0#F7BED9;
         +*{        rotate:90deg;
 }
       }
