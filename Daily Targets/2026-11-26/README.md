@@ -22,22 +22,23 @@ Challenge: <https://cssbattle.dev/play/TKYsmdfc2XMpMT4qG9mS>
 ## Code
 
 ```html
-<img><style>
-  & {
-    background: 
-      radial-gradient(1q,#5F133F 45px,#F075B0 0 55px,#0000)fixed,
-      radial-gradient(1q,#F075B0 20px,#5F133F)0px 0px /70px 70px;
-    margin:80 130;
-    outline:9in solid #5F133F;
+<img><img><style>
+  * {
+    margin:100q 153q;
+    border:40px dotted #F075B0;
+    background:#5F133F;
     *{
       border-radius:1in;
-      margin:50 60;
-      color:#F7BED9;
-      box-shadow:0 50px,0-50px;
+      margin:-42q;
+      border:10px solid #F075B0;
       *{
-        margin:0;
-        padding:20 10;
-        rotate:90deg;
+        padding:10 20;
+        border:0;
+        color:F7BED9;
+        margin:35 25 -55;
+        box-shadow:-50px 0,50px 0;
+        +*{        rotate:90deg;
+}
       }
     }
 ```
