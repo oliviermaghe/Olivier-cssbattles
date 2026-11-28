@@ -1,6 +1,14 @@
 {
-  "updatedAt": "2026-11-27T02:14:21.954Z",
+  "updatedAt": "2026-11-28T02:13:32.906Z",
   "videos": {
+    "IliOlRSdOvAmbti4hgiq": {
+      "date": "2026-11-27",
+      "videoId": "1bq3lQsDxEo",
+      "url": "https://youtu.be/1bq3lQsDxEo",
+      "title": "November 27, 2026: The Notched Frame, 143 chars by Evan Liomain – CSS Battle decoded",
+      "author": "Evan Liomain",
+      "chars": 143
+    },
     "TKYsmdfc2XMpMT4qG9mS": {
       "date": "2026-11-26",
       "videoId": "uc_IpDU_weg",
