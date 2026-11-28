@@ -18,7 +18,7 @@
 </li>
 </ul>
 
-### Daily Targets (165)
+### Daily Targets (166)
 
 <ul>
 <li>
@@ -203,7 +203,7 @@
 </li>
 <li>
 <details>
-<summary><strong>November 2026 (25/27+)</strong></summary>
+<summary><strong>November 2026 (26/28+)</strong></summary>
 
 <ul>
 <li><a href="./Daily%20Targets/2026-11-01/">Nov 1, 2026</a> (245 Characters)</li>
@@ -231,6 +231,7 @@
 <li><a href="./Daily%20Targets/2026-11-25/">Nov 25, 2026</a> (126 Characters)</li>
 <li><a href="./Daily%20Targets/2026-11-26/">Nov 26, 2026</a> (208 Characters)</li>
 <li><a href="./Daily%20Targets/2026-11-27/">Nov 27, 2026</a> (149 Characters)</li>
+<li><a href="./Daily%20Targets/2026-11-28/">Nov 28, 2026</a> (155 Characters)</li>
 </ul>
 </details>
 </li>
